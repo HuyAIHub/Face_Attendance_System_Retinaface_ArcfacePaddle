@@ -1,0 +1,1989 @@
+./tungpt38/frame112.png	tungpt38
+./tungpt38/frame7.png	tungpt38
+./tungpt38/frame105.png	tungpt38
+./tungpt38/frame28.png	tungpt38
+./tungpt38/frame0.png	tungpt38
+./tungpt38/frame91.png	tungpt38
+./tungpt38/frame63.png	tungpt38
+./tungpt38/frame35.png	tungpt38
+./tungpt38/frame84.png	tungpt38
+./tungpt38/frame119.png	tungpt38
+./tungpt38/frame56.png	tungpt38
+./tungpt38/frame126.png	tungpt38
+./tungpt38/frame70.png	tungpt38
+./tungpt38/frame14.png	tungpt38
+./tungpt38/frame133.png	tungpt38
+./tungpt38/frame98.png	tungpt38
+./tungpt38/frame77.png	tungpt38
+./tungpt38/frame21.png	tungpt38
+./tungpt38/frame42.png	tungpt38
+./tungpt38/frame49.png	tungpt38
+./Ygritte/217.jpg	Ygritte
+./Ygritte/136.jpg	Ygritte
+./Ygritte/187.jpg	Ygritte
+./Ygritte/216.jpg	Ygritte
+./Ygritte/236.jpg	Ygritte
+./Ygritte/134.jpg	Ygritte
+./Ygritte/157.jpg	Ygritte
+./Ygritte/156.jpg	Ygritte
+./Ygritte/229.jpg	Ygritte
+./Ygritte/508.jpg	Ygritte
+./Ygritte/190.jpg	Ygritte
+./Ygritte/188.jpg	Ygritte
+./Ygritte/153.jpg	Ygritte
+./Ygritte/232.jpg	Ygritte
+./Ygritte/192.jpg	Ygritte
+./Ygritte/172.jpg	Ygritte
+./Ygritte/210.jpg	Ygritte
+./Ygritte/170.jpg	Ygritte
+./Ygritte/171.jpg	Ygritte
+./Ygritte/154.jpg	Ygritte
+./Ygritte/135.jpg	Ygritte
+./Ygritte/152.jpg	Ygritte
+./Ygritte/209.jpg	Ygritte
+./Ygritte/214.jpg	Ygritte
+./Ygritte/151.jpg	Ygritte
+./Ygritte/191.jpg	Ygritte
+./Ygritte/227.jpg	Ygritte
+./Ygritte/212.jpg	Ygritte
+./Ygritte/211.jpg	Ygritte
+./Ygritte/215.jpg	Ygritte
+./Ygritte/131.jpg	Ygritte
+./Ygritte/235.jpg	Ygritte
+./Ygritte/207.jpg	Ygritte
+./Ygritte/234.jpg	Ygritte
+./Ygritte/510.jpg	Ygritte
+./Ygritte/226.jpg	Ygritte
+./Ygritte/155.jpg	Ygritte
+./Ygritte/186.jpg	Ygritte
+./Ygritte/193.jpg	Ygritte
+./Ygritte/173.jpg	Ygritte
+./Ygritte/233.jpg	Ygritte
+./Ygritte/230.jpg	Ygritte
+./Ygritte/208.jpg	Ygritte
+./Ygritte/213.jpg	Ygritte
+./Ygritte/194.jpg	Ygritte
+./Ygritte/150.jpg	Ygritte
+./Ygritte/169.jpg	Ygritte
+./Ygritte/345.jpg	Ygritte
+./Ygritte/231.jpg	Ygritte
+./Ygritte/228.jpg	Ygritte
+./Ygritte/225.jpg	Ygritte
+./Ygritte/344.jpg	Ygritte
+./Ygritte/149.jpg	Ygritte
+./Ygritte/189.jpg	Ygritte
+./Tien/8.jpg	Tien
+./Tien/15.jpg	Tien
+./Tien/16.jpg	Tien
+./Tien/17.jpg	Tien
+./Tien/9.jpg	Tien
+./Tien/13.jpg	Tien
+./Tien/6.jpg	Tien
+./Tien/11.jpg	Tien
+./Tien/14.jpg	Tien
+./Tien/7.jpg	Tien
+./Tien/12.jpg	Tien
+./Tien/10.jpg	Tien
+./huydq46/8.jpg	huydq46
+./huydq46/21.jpg	huydq46
+./huydq46/29.jpg	huydq46
+./huydq46/15.jpg	huydq46
+./huydq46/16.jpg	huydq46
+./huydq46/17.jpg	huydq46
+./huydq46/5.jpg	huydq46
+./huydq46/4.jpg	huydq46
+./huydq46/9.jpg	huydq46
+./huydq46/20.jpg	huydq46
+./huydq46/13.jpg	huydq46
+./huydq46/6.jpg	huydq46
+./huydq46/26.jpg	huydq46
+./huydq46/11.jpg	huydq46
+./huydq46/2.jpg	huydq46
+./huydq46/28.jpg	huydq46
+./huydq46/23.jpg	huydq46
+./huydq46/24.jpg	huydq46
+./huydq46/25.jpg	huydq46
+./huydq46/18.jpg	huydq46
+./huydq46/14.jpg	huydq46
+./huydq46/27.jpg	huydq46
+./huydq46/19.jpg	huydq46
+./huydq46/22.jpg	huydq46
+./huydq46/1.jpg	huydq46
+./huydq46/7.jpg	huydq46
+./huydq46/3.jpg	huydq46
+./huydq46/12.jpg	huydq46
+./huydq46/10.jpg	huydq46
+./linhltm5/frame238.png	linhltm5
+./linhltm5/frame112.png	linhltm5
+./linhltm5/frame7.png	linhltm5
+./linhltm5/frame105.png	linhltm5
+./linhltm5/frame28.png	linhltm5
+./linhltm5/frame168.png	linhltm5
+./linhltm5/CNTT_Linhltm5_glass.png	linhltm5
+./linhltm5/frame0.png	linhltm5
+./linhltm5/frame245.png	linhltm5
+./linhltm5/frame140.png	linhltm5
+./linhltm5/frame91.png	linhltm5
+./linhltm5/frame231.png	linhltm5
+./linhltm5/frame63.png	linhltm5
+./linhltm5/frame35.png	linhltm5
+./linhltm5/frame224.png	linhltm5
+./linhltm5/frame203.png	linhltm5
+./linhltm5/frame84.png	linhltm5
+./linhltm5/frame175.png	linhltm5
+./linhltm5/frame119.png	linhltm5
+./linhltm5/frame182.png	linhltm5
+./linhltm5/frame196.png	linhltm5
+./linhltm5/frame56.png	linhltm5
+./linhltm5/frame189.png	linhltm5
+./linhltm5/frame126.png	linhltm5
+./linhltm5/CNTT_linhltm5_image.png	linhltm5
+./linhltm5/frame154.png	linhltm5
+./linhltm5/frame70.png	linhltm5
+./linhltm5/frame14.png	linhltm5
+./linhltm5/frame210.png	linhltm5
+./linhltm5/frame133.png	linhltm5
+./linhltm5/frame147.png	linhltm5
+./linhltm5/frame98.png	linhltm5
+./linhltm5/frame77.png	linhltm5
+./linhltm5/frame21.png	linhltm5
+./linhltm5/frame161.png	linhltm5
+./linhltm5/frame217.png	linhltm5
+./linhltm5/frame42.png	linhltm5
+./linhltm5/frame49.png	linhltm5
+./Nga/8.jpg	Nga
+./Nga/15.jpg	Nga
+./Nga/16.jpg	Nga
+./Nga/17.jpg	Nga
+./Nga/5.jpg	Nga
+./Nga/4.jpg	Nga
+./Nga/9.jpg	Nga
+./Nga/13.jpg	Nga
+./Nga/6.jpg	Nga
+./Nga/11.jpg	Nga
+./Nga/2.jpg	Nga
+./Nga/18.jpg	Nga
+./Nga/14.jpg	Nga
+./Nga/19.jpg	Nga
+./Nga/1.jpg	Nga
+./Nga/7.jpg	Nga
+./Nga/3.jpg	Nga
+./Nga/12.jpg	Nga
+./Nga/10.jpg	Nga
+./Tormund Giantsbane/412.jpg	Tormund Giantsbane
+./Tormund Giantsbane/408.jpg	Tormund Giantsbane
+./Tormund Giantsbane/399.jpg	Tormund Giantsbane
+./Tormund Giantsbane/404.jpg	Tormund Giantsbane
+./Tormund Giantsbane/411.jpg	Tormund Giantsbane
+./Tormund Giantsbane/409.jpg	Tormund Giantsbane
+./Tormund Giantsbane/414.jpg	Tormund Giantsbane
+./Tormund Giantsbane/398.jpg	Tormund Giantsbane
+./Tormund Giantsbane/416.jpg	Tormund Giantsbane
+./Tormund Giantsbane/403.jpg	Tormund Giantsbane
+./Tormund Giantsbane/402.jpg	Tormund Giantsbane
+./Tormund Giantsbane/401.jpg	Tormund Giantsbane
+./Tormund Giantsbane/410.jpg	Tormund Giantsbane
+./Tormund Giantsbane/415.jpg	Tormund Giantsbane
+./Tormund Giantsbane/413.jpg	Tormund Giantsbane
+./Tormund Giantsbane/405.jpg	Tormund Giantsbane
+./Tormund Giantsbane/407.jpg	Tormund Giantsbane
+./Tormund Giantsbane/417.jpg	Tormund Giantsbane
+./Tormund Giantsbane/406.jpg	Tormund Giantsbane
+./Sansa Stark/48.jpg	Sansa Stark
+./Sansa Stark/892.jpg	Sansa Stark
+./Sansa Stark/1021.jpg	Sansa Stark
+./Sansa Stark/29.jpg	Sansa Stark
+./Sansa Stark/538.jpg	Sansa Stark
+./Sansa Stark/434.jpg	Sansa Stark
+./Sansa Stark/40.jpg	Sansa Stark
+./Sansa Stark/516.jpg	Sansa Stark
+./Sansa Stark/546.jpg	Sansa Stark
+./Sansa Stark/71.jpg	Sansa Stark
+./Sansa Stark/9.jpg	Sansa Stark
+./Sansa Stark/43.jpg	Sansa Stark
+./Sansa Stark/55r.jpg	Sansa Stark
+./Sansa Stark/56.jpg	Sansa Stark
+./Sansa Stark/522.jpg	Sansa Stark
+./Sansa Stark/744.jpg	Sansa Stark
+./Sansa Stark/431.jpg	Sansa Stark
+./Sansa Stark/26.jpg	Sansa Stark
+./Sansa Stark/81.jpg	Sansa Stark
+./Sansa Stark/62.jpg	Sansa Stark
+./Sansa Stark/1023.jpg	Sansa Stark
+./Sansa Stark/28.jpg	Sansa Stark
+./Sansa Stark/45.jpg	Sansa Stark
+./Sansa Stark/30.jpg	Sansa Stark
+./Sansa Stark/349.jpg	Sansa Stark
+./Sansa Stark/50.jpg	Sansa Stark
+./Sansa Stark/488.jpg	Sansa Stark
+./Sansa Stark/903.jpg	Sansa Stark
+./Sansa Stark/996.jpg	Sansa Stark
+./Sansa Stark/1022.jpg	Sansa Stark
+./Sansa Stark/41.jpg	Sansa Stark
+./Sansa Stark/469.jpg	Sansa Stark
+./Sansa Stark/1015.jpg	Sansa Stark
+./Sansa Stark/44w.jpg	Sansa Stark
+./Sansa Stark/38.jpg	Sansa Stark
+./Sansa Stark/37.jpg	Sansa Stark
+./Sansa Stark/39.jpg	Sansa Stark
+./Sansa Stark/881.jpg	Sansa Stark
+./Sansa Stark/5e4.jpg	Sansa Stark
+./Sansa Stark/27.jpg	Sansa Stark
+./Sansa Stark/6t1.jpg	Sansa Stark
+./Sansa Stark/51.jpg	Sansa Stark
+./Sansa Stark/352.jpg	Sansa Stark
+./Sansa Stark/54.jpg	Sansa Stark
+./Sansa Stark/1013.jpg	Sansa Stark
+./Sansa Stark/2d.jpg	Sansa Stark
+./Sansa Stark/57.jpg	Sansa Stark
+./Sansa Stark/64.jpg	Sansa Stark
+./Sansa Stark/874.jpg	Sansa Stark
+./Sansa Stark/70.jpg	Sansa Stark
+./Sansa Stark/59.jpg	Sansa Stark
+./Sansa Stark/44.jpg	Sansa Stark
+./Sansa Stark/75.jpg	Sansa Stark
+./Sansa Stark/543.jpg	Sansa Stark
+./Sansa Stark/61.jpg	Sansa Stark
+./Sansa Stark/51e.jpg	Sansa Stark
+./Sansa Stark/959.jpg	Sansa Stark
+./Sansa Stark/52.jpg	Sansa Stark
+./Sansa Stark/730.jpg	Sansa Stark
+./Sansa Stark/895.jpg	Sansa Stark
+./Sansa Stark/902.jpg	Sansa Stark
+./Sansa Stark/489.jpg	Sansa Stark
+./Sansa Stark/77.jpg	Sansa Stark
+./Sansa Stark/60.jpg	Sansa Stark
+./Sansa Stark/55.jpg	Sansa Stark
+./Sansa Stark/63.jpg	Sansa Stark
+./Sansa Stark/47.jpg	Sansa Stark
+./Sansa Stark/10.jpg	Sansa Stark
+./Daenerys Targaryen/332.jpg	Daenerys Targaryen
+./Daenerys Targaryen/8.jpg	Daenerys Targaryen
+./Daenerys Targaryen/126.jpg	Daenerys Targaryen
+./Daenerys Targaryen/199.jpg	Daenerys Targaryen
+./Daenerys Targaryen/704.jpg	Daenerys Targaryen
+./Daenerys Targaryen/603.jpg	Daenerys Targaryen
+./Daenerys Targaryen/15.jpg	Daenerys Targaryen
+./Daenerys Targaryen/355.jpg	Daenerys Targaryen
+./Daenerys Targaryen/601.jpg	Daenerys Targaryen
+./Daenerys Targaryen/134.jpg	Daenerys Targaryen
+./Daenerys Targaryen/4.jpg	Daenerys Targaryen
+./Daenerys Targaryen/40.jpg	Daenerys Targaryen
+./Daenerys Targaryen/683.jpg	Daenerys Targaryen
+./Daenerys Targaryen/128.jpg	Daenerys Targaryen
+./Daenerys Targaryen/508.jpg	Daenerys Targaryen
+./Daenerys Targaryen/346.jpg	Daenerys Targaryen
+./Daenerys Targaryen/499.jpg	Daenerys Targaryen
+./Daenerys Targaryen/34.jpg	Daenerys Targaryen
+./Daenerys Targaryen/706.jpg	Daenerys Targaryen
+./Daenerys Targaryen/356.jpg	Daenerys Targaryen
+./Daenerys Targaryen/339.jpg	Daenerys Targaryen
+./Daenerys Targaryen/130.jpg	Daenerys Targaryen
+./Daenerys Targaryen/110.jpg	Daenerys Targaryen
+./Daenerys Targaryen/684.jpg	Daenerys Targaryen
+./Daenerys Targaryen/341.jpg	Daenerys Targaryen
+./Daenerys Targaryen/350.jpg	Daenerys Targaryen
+./Daenerys Targaryen/577.jpg	Daenerys Targaryen
+./Daenerys Targaryen/154.jpg	Daenerys Targaryen
+./Daenerys Targaryen/595.jpg	Daenerys Targaryen
+./Daenerys Targaryen/336.jpg	Daenerys Targaryen
+./Daenerys Targaryen/45.jpg	Daenerys Targaryen
+./Daenerys Targaryen/357.jpg	Daenerys Targaryen
+./Daenerys Targaryen/349.jpg	Daenerys Targaryen
+./Daenerys Targaryen/501.jpg	Daenerys Targaryen
+./Daenerys Targaryen/197.jpg	Daenerys Targaryen
+./Daenerys Targaryen/129.jpg	Daenerys Targaryen
+./Daenerys Targaryen/106.jpg	Daenerys Targaryen
+./Daenerys Targaryen/334.jpg	Daenerys Targaryen
+./Daenerys Targaryen/354.jpg	Daenerys Targaryen
+./Daenerys Targaryen/338.jpg	Daenerys Targaryen
+./Daenerys Targaryen/505.jpg	Daenerys Targaryen
+./Daenerys Targaryen/49.jpg	Daenerys Targaryen
+./Daenerys Targaryen/337.jpg	Daenerys Targaryen
+./Daenerys Targaryen/39.jpg	Daenerys Targaryen
+./Daenerys Targaryen/333.jpg	Daenerys Targaryen
+./Daenerys Targaryen/14.jpg	Daenerys Targaryen
+./Daenerys Targaryen/19.jpg	Daenerys Targaryen
+./Daenerys Targaryen/352.jpg	Daenerys Targaryen
+./Daenerys Targaryen/507.jpg	Daenerys Targaryen
+./Daenerys Targaryen/342.jpg	Daenerys Targaryen
+./Daenerys Targaryen/144.jpg	Daenerys Targaryen
+./Daenerys Targaryen/204.jpg	Daenerys Targaryen
+./Daenerys Targaryen/113.jpg	Daenerys Targaryen
+./Daenerys Targaryen/506.jpg	Daenerys Targaryen
+./Daenerys Targaryen/193.jpg	Daenerys Targaryen
+./Daenerys Targaryen/1827.jpg	Daenerys Targaryen
+./Daenerys Targaryen/125.jpg	Daenerys Targaryen
+./Daenerys Targaryen/348.jpg	Daenerys Targaryen
+./Daenerys Targaryen/347.jpg	Daenerys Targaryen
+./Daenerys Targaryen/224.jpg	Daenerys Targaryen
+./Daenerys Targaryen/1828.jpg	Daenerys Targaryen
+./Daenerys Targaryen/498.jpg	Daenerys Targaryen
+./Daenerys Targaryen/667.jpg	Daenerys Targaryen
+./Daenerys Targaryen/580.jpg	Daenerys Targaryen
+./Daenerys Targaryen/608.jpg	Daenerys Targaryen
+./Daenerys Targaryen/599.jpg	Daenerys Targaryen
+./Daenerys Targaryen/345.jpg	Daenerys Targaryen
+./Daenerys Targaryen/12.jpg	Daenerys Targaryen
+./Daenerys Targaryen/343.jpg	Daenerys Targaryen
+./Daenerys Targaryen/124.jpg	Daenerys Targaryen
+./Daenerys Targaryen/335.jpg	Daenerys Targaryen
+./Daenerys Targaryen/344.jpg	Daenerys Targaryen
+./Daenerys Targaryen/149.jpg	Daenerys Targaryen
+./Daenerys Targaryen/597.jpg	Daenerys Targaryen
+./Daenerys Targaryen/47.jpg	Daenerys Targaryen
+./Daenerys Targaryen/10.jpg	Daenerys Targaryen
+./Trung/8.jpg	Trung
+./Trung/21.jpg	Trung
+./Trung/15.jpg	Trung
+./Trung/16.jpg	Trung
+./Trung/17.jpg	Trung
+./Trung/5.jpg	Trung
+./Trung/4.jpg	Trung
+./Trung/9.jpg	Trung
+./Trung/20.jpg	Trung
+./Trung/13.jpg	Trung
+./Trung/6.jpg	Trung
+./Trung/11.jpg	Trung
+./Trung/2.jpg	Trung
+./Trung/18.jpg	Trung
+./Trung/14.jpg	Trung
+./Trung/19.jpg	Trung
+./Trung/1.jpg	Trung
+./Trung/7.jpg	Trung
+./Trung/3.jpg	Trung
+./Trung/12.jpg	Trung
+./Trung/10.jpg	Trung
+./thaotp9/frame238.png	thaotp9
+./thaotp9/frame112.png	thaotp9
+./thaotp9/frame7.png	thaotp9
+./thaotp9/CNTT_Thaotp9_image.JPG.png	thaotp9
+./thaotp9/frame105.png	thaotp9
+./thaotp9/frame28.png	thaotp9
+./thaotp9/frame168.png	thaotp9
+./thaotp9/CNTT_Thaotp9_glass.JPG.png	thaotp9
+./thaotp9/frame259.png	thaotp9
+./thaotp9/frame0.png	thaotp9
+./thaotp9/frame245.png	thaotp9
+./thaotp9/frame140.png	thaotp9
+./thaotp9/frame91.png	thaotp9
+./thaotp9/frame231.png	thaotp9
+./thaotp9/frame252.png	thaotp9
+./thaotp9/frame63.png	thaotp9
+./thaotp9/frame35.png	thaotp9
+./thaotp9/frame224.png	thaotp9
+./thaotp9/frame203.png	thaotp9
+./thaotp9/frame84.png	thaotp9
+./thaotp9/frame175.png	thaotp9
+./thaotp9/frame119.png	thaotp9
+./thaotp9/frame182.png	thaotp9
+./thaotp9/frame196.png	thaotp9
+./thaotp9/frame56.png	thaotp9
+./thaotp9/frame189.png	thaotp9
+./thaotp9/frame126.png	thaotp9
+./thaotp9/frame154.png	thaotp9
+./thaotp9/frame70.png	thaotp9
+./thaotp9/frame14.png	thaotp9
+./thaotp9/frame210.png	thaotp9
+./thaotp9/frame133.png	thaotp9
+./thaotp9/frame147.png	thaotp9
+./thaotp9/frame98.png	thaotp9
+./thaotp9/frame77.png	thaotp9
+./thaotp9/frame21.png	thaotp9
+./thaotp9/frame161.png	thaotp9
+./thaotp9/CNTT_Thaotp9_mask.JPG.png	thaotp9
+./thaotp9/frame217.png	thaotp9
+./thaotp9/frame42.png	thaotp9
+./thaotp9/frame49.png	thaotp9
+./truongdx11/frame336.png	truongdx11
+./truongdx11/frame238.png	truongdx11
+./truongdx11/frame112.png	truongdx11
+./truongdx11/frame399.png	truongdx11
+./truongdx11/frame462.png	truongdx11
+./truongdx11/frame7.png	truongdx11
+./truongdx11/frame525.png	truongdx11
+./truongdx11/frame105.png	truongdx11
+./truongdx11/frame28.png	truongdx11
+./truongdx11/frame168.png	truongdx11
+./truongdx11/frame532.png	truongdx11
+./truongdx11/frame371.png	truongdx11
+./truongdx11/frame308.png	truongdx11
+./truongdx11/frame441.png	truongdx11
+./truongdx11/frame259.png	truongdx11
+./truongdx11/frame539.png	truongdx11
+./truongdx11/frame343.png	truongdx11
+./truongdx11/frame497.png	truongdx11
+./truongdx11/frame329.png	truongdx11
+./truongdx11/frame0.png	truongdx11
+./truongdx11/frame413.png	truongdx11
+./truongdx11/frame322.png	truongdx11
+./truongdx11/frame350.png	truongdx11
+./truongdx11/frame245.png	truongdx11
+./truongdx11/frame434.png	truongdx11
+./truongdx11/frame546.png	truongdx11
+./truongdx11/frame294.png	truongdx11
+./truongdx11/frame448.png	truongdx11
+./truongdx11/frame140.png	truongdx11
+./truongdx11/frame91.png	truongdx11
+./truongdx11/frame455.png	truongdx11
+./truongdx11/frame490.png	truongdx11
+./truongdx11/frame231.png	truongdx11
+./truongdx11/frame252.png	truongdx11
+./truongdx11/frame266.png	truongdx11
+./truongdx11/frame63.png	truongdx11
+./truongdx11/frame35.png	truongdx11
+./truongdx11/frame280.png	truongdx11
+./truongdx11/frame224.png	truongdx11
+./truongdx11/frame203.png	truongdx11
+./truongdx11/frame84.png	truongdx11
+./truongdx11/frame175.png	truongdx11
+./truongdx11/frame469.png	truongdx11
+./truongdx11/frame119.png	truongdx11
+./truongdx11/frame476.png	truongdx11
+./truongdx11/frame392.png	truongdx11
+./truongdx11/frame385.png	truongdx11
+./truongdx11/frame504.png	truongdx11
+./truongdx11/frame182.png	truongdx11
+./truongdx11/frame196.png	truongdx11
+./truongdx11/frame56.png	truongdx11
+./truongdx11/frame364.png	truongdx11
+./truongdx11/frame511.png	truongdx11
+./truongdx11/frame189.png	truongdx11
+./truongdx11/frame126.png	truongdx11
+./truongdx11/frame154.png	truongdx11
+./truongdx11/frame70.png	truongdx11
+./truongdx11/frame357.png	truongdx11
+./truongdx11/frame14.png	truongdx11
+./truongdx11/frame210.png	truongdx11
+./truongdx11/frame133.png	truongdx11
+./truongdx11/frame147.png	truongdx11
+./truongdx11/frame98.png	truongdx11
+./truongdx11/frame406.png	truongdx11
+./truongdx11/frame77.png	truongdx11
+./truongdx11/frame315.png	truongdx11
+./truongdx11/frame21.png	truongdx11
+./truongdx11/frame301.png	truongdx11
+./truongdx11/frame161.png	truongdx11
+./truongdx11/frame273.png	truongdx11
+./truongdx11/frame217.png	truongdx11
+./truongdx11/frame518.png	truongdx11
+./truongdx11/frame42.png	truongdx11
+./truongdx11/frame420.png	truongdx11
+./truongdx11/frame49.png	truongdx11
+./truongdx11/frame427.png	truongdx11
+./truongdx11/frame483.png	truongdx11
+./truongdx11/frame287.png	truongdx11
+./truongdx11/frame378.png	truongdx11
+./Melisandre/180.jpg	Melisandre
+./Melisandre/255.jpg	Melisandre
+./Melisandre/160.jpg	Melisandre
+./Melisandre/264.jpg	Melisandre
+./Melisandre/265.jpg	Melisandre
+./Melisandre/263.jpg	Melisandre
+./Melisandre/256.jpg	Melisandre
+./Melisandre/247.jpg	Melisandre
+./Melisandre/177.jpg	Melisandre
+./Melisandre/248.jpg	Melisandre
+./Melisandre/250.jpg	Melisandre
+./Melisandre/161.jpg	Melisandre
+./Melisandre/266.jpg	Melisandre
+./Melisandre/178.jpg	Melisandre
+./Melisandre/254.jpg	Melisandre
+./Melisandre/253.jpg	Melisandre
+./Melisandre/179.jpg	Melisandre
+./Melisandre/261.jpg	Melisandre
+./Melisandre/163.jpg	Melisandre
+./Melisandre/162.jpg	Melisandre
+./Thao/8.jpg	Thao
+./Thao/21.jpg	Thao
+./Thao/15.jpg	Thao
+./Thao/16.jpg	Thao
+./Thao/17.jpg	Thao
+./Thao/5.jpg	Thao
+./Thao/4.jpg	Thao
+./Thao/9.jpg	Thao
+./Thao/20.jpg	Thao
+./Thao/13.jpg	Thao
+./Thao/6.jpg	Thao
+./Thao/11.jpg	Thao
+./Thao/2.jpg	Thao
+./Thao/18.jpg	Thao
+./Thao/14.jpg	Thao
+./Thao/19.jpg	Thao
+./Thao/1.jpg	Thao
+./Thao/7.jpg	Thao
+./Thao/3.jpg	Thao
+./Thao/12.jpg	Thao
+./Thao/10.jpg	Thao
+./quangpn5/frame238.png	quangpn5
+./quangpn5/frame112.png	quangpn5
+./quangpn5/frame7.png	quangpn5
+./quangpn5/frame105.png	quangpn5
+./quangpn5/frame28.png	quangpn5
+./quangpn5/frame168.png	quangpn5
+./quangpn5/frame0.png	quangpn5
+./quangpn5/frame245.png	quangpn5
+./quangpn5/frame140.png	quangpn5
+./quangpn5/frame91.png	quangpn5
+./quangpn5/frame231.png	quangpn5
+./quangpn5/frame252.png	quangpn5
+./quangpn5/frame63.png	quangpn5
+./quangpn5/frame35.png	quangpn5
+./quangpn5/frame224.png	quangpn5
+./quangpn5/frame203.png	quangpn5
+./quangpn5/frame84.png	quangpn5
+./quangpn5/frame175.png	quangpn5
+./quangpn5/frame119.png	quangpn5
+./quangpn5/frame182.png	quangpn5
+./quangpn5/frame196.png	quangpn5
+./quangpn5/frame56.png	quangpn5
+./quangpn5/CNTT_quangpn5_image.png	quangpn5
+./quangpn5/frame189.png	quangpn5
+./quangpn5/frame126.png	quangpn5
+./quangpn5/frame154.png	quangpn5
+./quangpn5/frame70.png	quangpn5
+./quangpn5/frame14.png	quangpn5
+./quangpn5/frame210.png	quangpn5
+./quangpn5/frame133.png	quangpn5
+./quangpn5/frame147.png	quangpn5
+./quangpn5/frame98.png	quangpn5
+./quangpn5/frame77.png	quangpn5
+./quangpn5/frame21.png	quangpn5
+./quangpn5/frame161.png	quangpn5
+./quangpn5/frame217.png	quangpn5
+./quangpn5/frame42.png	quangpn5
+./quangpn5/frame49.png	quangpn5
+./Podrick Payne/217.jpg	Podrick Payne
+./Podrick Payne/216.jpg	Podrick Payne
+./Podrick Payne/2j09.jpg	Podrick Payne
+./Podrick Payne/221.jpg	Podrick Payne
+./Podrick Payne/218.jpg	Podrick Payne
+./Podrick Payne/210.jpg	Podrick Payne
+./Podrick Payne/205.jpg	Podrick Payne
+./Podrick Payne/209.jpg	Podrick Payne
+./Podrick Payne/214.jpg	Podrick Payne
+./Podrick Payne/211.jpg	Podrick Payne
+./Podrick Payne/206.jpg	Podrick Payne
+./Podrick Payne/219.jpg	Podrick Payne
+./Podrick Payne/207.jpg	Podrick Payne
+./Podrick Payne/2n05.jpg	Podrick Payne
+./Podrick Payne/223.jpg	Podrick Payne
+./Podrick Payne/204.jpg	Podrick Payne
+./Podrick Payne/220.jpg	Podrick Payne
+./Podrick Payne/208.jpg	Podrick Payne
+./Theon Greyjoy/32.jpg	Theon Greyjoy
+./Theon Greyjoy/34.jpg	Theon Greyjoy
+./Theon Greyjoy/26.jpg	Theon Greyjoy
+./Theon Greyjoy/23.jpg	Theon Greyjoy
+./Theon Greyjoy/35.jpg	Theon Greyjoy
+./Theon Greyjoy/24.jpg	Theon Greyjoy
+./Theon Greyjoy/38.jpg	Theon Greyjoy
+./Theon Greyjoy/25.jpg	Theon Greyjoy
+./Theon Greyjoy/27.jpg	Theon Greyjoy
+./Theon Greyjoy/22.jpg	Theon Greyjoy
+./Theon Greyjoy/31.jpg	Theon Greyjoy
+./Theon Greyjoy/36.jpg	Theon Greyjoy
+./Bronn/565.jpg	Bronn
+./Bronn/570.jpg	Bronn
+./Bronn/568.jpg	Bronn
+./Bronn/569.jpg	Bronn
+./Bronn/567.jpg	Bronn
+./Cersei Lannister/494.jpg	Cersei Lannister
+./Cersei Lannister/21.jpg	Cersei Lannister
+./Cersei Lannister/29.jpg	Cersei Lannister
+./Cersei Lannister/15.jpg	Cersei Lannister
+./Cersei Lannister/435.jpg	Cersei Lannister
+./Cersei Lannister/270.jpg	Cersei Lannister
+./Cersei Lannister/404.jpg	Cersei Lannister
+./Cersei Lannister/434.jpg	Cersei Lannister
+./Cersei Lannister/480.jpg	Cersei Lannister
+./Cersei Lannister/40.jpg	Cersei Lannister
+./Cersei Lannister/516.jpg	Cersei Lannister
+./Cersei Lannister/79.jpg	Cersei Lannister
+./Cersei Lannister/71.jpg	Cersei Lannister
+./Cersei Lannister/432.jpg	Cersei Lannister
+./Cersei Lannister/20.jpg	Cersei Lannister
+./Cersei Lannister/478.jpg	Cersei Lannister
+./Cersei Lannister/487.jpg	Cersei Lannister
+./Cersei Lannister/42.jpg	Cersei Lannister
+./Cersei Lannister/286.jpg	Cersei Lannister
+./Cersei Lannister/43.jpg	Cersei Lannister
+./Cersei Lannister/858.jpg	Cersei Lannister
+./Cersei Lannister/84.jpg	Cersei Lannister
+./Cersei Lannister/394.jpg	Cersei Lannister
+./Cersei Lannister/81.jpg	Cersei Lannister
+./Cersei Lannister/364.jpg	Cersei Lannister
+./Cersei Lannister/74.jpg	Cersei Lannister
+./Cersei Lannister/45.jpg	Cersei Lannister
+./Cersei Lannister/368.jpg	Cersei Lannister
+./Cersei Lannister/30.jpg	Cersei Lannister
+./Cersei Lannister/50.jpg	Cersei Lannister
+./Cersei Lannister/258.jpg	Cersei Lannister
+./Cersei Lannister/440.jpg	Cersei Lannister
+./Cersei Lannister/41.jpg	Cersei Lannister
+./Cersei Lannister/212.jpg	Cersei Lannister
+./Cersei Lannister/24.jpg	Cersei Lannister
+./Cersei Lannister/441.jpg	Cersei Lannister
+./Cersei Lannister/49.jpg	Cersei Lannister
+./Cersei Lannister/439.jpg	Cersei Lannister
+./Cersei Lannister/73.jpg	Cersei Lannister
+./Cersei Lannister/515.jpg	Cersei Lannister
+./Cersei Lannister/219.jpg	Cersei Lannister
+./Cersei Lannister/38.jpg	Cersei Lannister
+./Cersei Lannister/82.jpg	Cersei Lannister
+./Cersei Lannister/25.jpg	Cersei Lannister
+./Cersei Lannister/18.jpg	Cersei Lannister
+./Cersei Lannister/19.jpg	Cersei Lannister
+./Cersei Lannister/472.jpg	Cersei Lannister
+./Cersei Lannister/295.jpg	Cersei Lannister
+./Cersei Lannister/22.jpg	Cersei Lannister
+./Cersei Lannister/367.jpg	Cersei Lannister
+./Cersei Lannister/468.jpg	Cersei Lannister
+./Cersei Lannister/433.jpg	Cersei Lannister
+./Cersei Lannister/69.jpg	Cersei Lannister
+./Cersei Lannister/64.jpg	Cersei Lannister
+./Cersei Lannister/856.jpg	Cersei Lannister
+./Cersei Lannister/70.jpg	Cersei Lannister
+./Cersei Lannister/44.jpg	Cersei Lannister
+./Cersei Lannister/78.jpg	Cersei Lannister
+./Cersei Lannister/75.jpg	Cersei Lannister
+./Cersei Lannister/437.jpg	Cersei Lannister
+./Cersei Lannister/471.jpg	Cersei Lannister
+./Cersei Lannister/309.jpg	Cersei Lannister
+./Cersei Lannister/395.jpg	Cersei Lannister
+./Cersei Lannister/407.jpg	Cersei Lannister
+./Cersei Lannister/66.jpg	Cersei Lannister
+./Cersei Lannister/52.jpg	Cersei Lannister
+./Cersei Lannister/33.jpg	Cersei Lannister
+./Cersei Lannister/483.jpg	Cersei Lannister
+./Cersei Lannister/365.jpg	Cersei Lannister
+./Cersei Lannister/80.jpg	Cersei Lannister
+./Cersei Lannister/86.jpg	Cersei Lannister
+./Cersei Lannister/67.jpg	Cersei Lannister
+./Cersei Lannister/438.jpg	Cersei Lannister
+./Cersei Lannister/55.jpg	Cersei Lannister
+./Cersei Lannister/47.jpg	Cersei Lannister
+./Cersei Lannister/85.jpg	Cersei Lannister
+./Petyr Littlefinger Baelish/136.jpg	Petyr Littlefinger Baelish
+./Petyr Littlefinger Baelish/138.jpg	Petyr Littlefinger Baelish
+./Petyr Littlefinger Baelish/134.jpg	Petyr Littlefinger Baelish
+./Petyr Littlefinger Baelish/128.jpg	Petyr Littlefinger Baelish
+./Petyr Littlefinger Baelish/137.jpg	Petyr Littlefinger Baelish
+./Petyr Littlefinger Baelish/130.jpg	Petyr Littlefinger Baelish
+./Petyr Littlefinger Baelish/135.jpg	Petyr Littlefinger Baelish
+./Petyr Littlefinger Baelish/129.jpg	Petyr Littlefinger Baelish
+./Petyr Littlefinger Baelish/146.jpg	Petyr Littlefinger Baelish
+./Petyr Littlefinger Baelish/139.jpg	Petyr Littlefinger Baelish
+./Petyr Littlefinger Baelish/131.jpg	Petyr Littlefinger Baelish
+./Petyr Littlefinger Baelish/132.jpg	Petyr Littlefinger Baelish
+./Petyr Littlefinger Baelish/140.jpg	Petyr Littlefinger Baelish
+./Petyr Littlefinger Baelish/141.jpg	Petyr Littlefinger Baelish
+./Petyr Littlefinger Baelish/144.jpg	Petyr Littlefinger Baelish
+./Petyr Littlefinger Baelish/143.jpg	Petyr Littlefinger Baelish
+./Petyr Littlefinger Baelish/133.jpg	Petyr Littlefinger Baelish
+./Phan/8.jpg	Phan
+./Phan/21.jpg	Phan
+./Phan/15.jpg	Phan
+./Phan/16.jpg	Phan
+./Phan/17.jpg	Phan
+./Phan/5.jpg	Phan
+./Phan/4.jpg	Phan
+./Phan/9.jpg	Phan
+./Phan/20.jpg	Phan
+./Phan/13.jpg	Phan
+./Phan/6.jpg	Phan
+./Phan/11.jpg	Phan
+./Phan/2.jpg	Phan
+./Phan/18.jpg	Phan
+./Phan/14.jpg	Phan
+./Phan/19.jpg	Phan
+./Phan/1.jpg	Phan
+./Phan/7.jpg	Phan
+./Phan/3.jpg	Phan
+./Phan/12.jpg	Phan
+./Phan/10.jpg	Phan
+./Huan/8.jpg	Huan
+./Huan/21.jpg	Huan
+./Huan/15.jpg	Huan
+./Huan/16.jpg	Huan
+./Huan/17.jpg	Huan
+./Huan/5.jpg	Huan
+./Huan/4.jpg	Huan
+./Huan/9.jpg	Huan
+./Huan/20.jpg	Huan
+./Huan/13.jpg	Huan
+./Huan/6.jpg	Huan
+./Huan/11.jpg	Huan
+./Huan/2.jpg	Huan
+./Huan/18.jpg	Huan
+./Huan/14.jpg	Huan
+./Huan/19.jpg	Huan
+./Huan/1.jpg	Huan
+./Huan/7.jpg	Huan
+./Huan/3.jpg	Huan
+./Huan/12.jpg	Huan
+./Huan/10.jpg	Huan
+./Margaery Tyrell/280.jpg	Margaery Tyrell
+./Margaery Tyrell/279.jpg	Margaery Tyrell
+./Margaery Tyrell/287.jpg	Margaery Tyrell
+./Margaery Tyrell/278.jpg	Margaery Tyrell
+./Margaery Tyrell/286.jpg	Margaery Tyrell
+./Margaery Tyrell/293.jpg	Margaery Tyrell
+./Margaery Tyrell/281.jpg	Margaery Tyrell
+./Margaery Tyrell/282.jpg	Margaery Tyrell
+./Margaery Tyrell/290.jpg	Margaery Tyrell
+./Margaery Tyrell/285.jpg	Margaery Tyrell
+./Margaery Tyrell/291.jpg	Margaery Tyrell
+./Margaery Tyrell/288.jpg	Margaery Tyrell
+./Margaery Tyrell/284.jpg	Margaery Tyrell
+./Eddison Tollett/306.jpg	Eddison Tollett
+./Eddison Tollett/305.jpg	Eddison Tollett
+./Eddison Tollett/296.jpg	Eddison Tollett
+./Eddison Tollett/301.jpg	Eddison Tollett
+./Eddison Tollett/297.jpg	Eddison Tollett
+./Eddison Tollett/303.jpg	Eddison Tollett
+./Eddison Tollett/298.jpg	Eddison Tollett
+./Eddison Tollett/294.jpg	Eddison Tollett
+./Eddison Tollett/302.jpg	Eddison Tollett
+./Eddison Tollett/299.jpg	Eddison Tollett
+./Eddison Tollett/304.jpg	Eddison Tollett
+./Eddison Tollett/307.jpg	Eddison Tollett
+./Eddison Tollett/295.jpg	Eddison Tollett
+./Eddison Tollett/300.jpg	Eddison Tollett
+./Eddison Tollett/309.jpg	Eddison Tollett
+./Samwell Tarly/8.jpg	Samwell Tarly
+./Samwell Tarly/21.jpg	Samwell Tarly
+./Samwell Tarly/15.jpg	Samwell Tarly
+./Samwell Tarly/16.jpg	Samwell Tarly
+./Samwell Tarly/17.jpg	Samwell Tarly
+./Samwell Tarly/5.jpg	Samwell Tarly
+./Samwell Tarly/4.jpg	Samwell Tarly
+./Samwell Tarly/278.jpg	Samwell Tarly
+./Samwell Tarly/71.jpg	Samwell Tarly
+./Samwell Tarly/9.jpg	Samwell Tarly
+./Samwell Tarly/629.jpg	Samwell Tarly
+./Samwell Tarly/20.jpg	Samwell Tarly
+./Samwell Tarly/137.jpg	Samwell Tarly
+./Samwell Tarly/192.jpg	Samwell Tarly
+./Samwell Tarly/172.jpg	Samwell Tarly
+./Samwell Tarly/13.jpg	Samwell Tarly
+./Samwell Tarly/6.jpg	Samwell Tarly
+./Samwell Tarly/11.jpg	Samwell Tarly
+./Samwell Tarly/2.jpg	Samwell Tarly
+./Samwell Tarly/45.jpg	Samwell Tarly
+./Samwell Tarly/260.jpg	Samwell Tarly
+./Samwell Tarly/211.jpg	Samwell Tarly
+./Samwell Tarly/49.jpg	Samwell Tarly
+./Samwell Tarly/73.jpg	Samwell Tarly
+./Samwell Tarly/282.jpg	Samwell Tarly
+./Samwell Tarly/25.jpg	Samwell Tarly
+./Samwell Tarly/18.jpg	Samwell Tarly
+./Samwell Tarly/19.jpg	Samwell Tarly
+./Samwell Tarly/600.jpg	Samwell Tarly
+./Samwell Tarly/1.jpg	Samwell Tarly
+./Samwell Tarly/113.jpg	Samwell Tarly
+./Samwell Tarly/7.jpg	Samwell Tarly
+./Samwell Tarly/611.jpg	Samwell Tarly
+./Samwell Tarly/418.jpg	Samwell Tarly
+./Samwell Tarly/3.jpg	Samwell Tarly
+./Samwell Tarly/168.jpg	Samwell Tarly
+./Samwell Tarly/636.jpg	Samwell Tarly
+./Samwell Tarly/163.jpg	Samwell Tarly
+./Samwell Tarly/12.jpg	Samwell Tarly
+./Samwell Tarly/10.jpg	Samwell Tarly
+./Hung/8.jpg	Hung
+./Hung/21.jpg	Hung
+./Hung/15.jpg	Hung
+./Hung/16.jpg	Hung
+./Hung/17.jpg	Hung
+./Hung/5.jpg	Hung
+./Hung/4.jpg	Hung
+./Hung/9.jpg	Hung
+./Hung/20.jpg	Hung
+./Hung/13.jpg	Hung
+./Hung/6.jpg	Hung
+./Hung/11.jpg	Hung
+./Hung/2.jpg	Hung
+./Hung/18.jpg	Hung
+./Hung/14.jpg	Hung
+./Hung/19.jpg	Hung
+./Hung/1.jpg	Hung
+./Hung/7.jpg	Hung
+./Hung/3.jpg	Hung
+./Hung/12.jpg	Hung
+./Hung/10.jpg	Hung
+./mytth2/frame238.png	mytth2
+./mytth2/frame112.png	mytth2
+./mytth2/frame7.png	mytth2
+./mytth2/frame105.png	mytth2
+./mytth2/frame28.png	mytth2
+./mytth2/frame168.png	mytth2
+./mytth2/frame0.png	mytth2
+./mytth2/frame245.png	mytth2
+./mytth2/frame140.png	mytth2
+./mytth2/frame91.png	mytth2
+./mytth2/frame231.png	mytth2
+./mytth2/frame252.png	mytth2
+./mytth2/frame63.png	mytth2
+./mytth2/frame35.png	mytth2
+./mytth2/frame224.png	mytth2
+./mytth2/frame203.png	mytth2
+./mytth2/frame84.png	mytth2
+./mytth2/frame175.png	mytth2
+./mytth2/frame119.png	mytth2
+./mytth2/frame182.png	mytth2
+./mytth2/frame196.png	mytth2
+./mytth2/frame56.png	mytth2
+./mytth2/frame189.png	mytth2
+./mytth2/frame126.png	mytth2
+./mytth2/frame154.png	mytth2
+./mytth2/frame70.png	mytth2
+./mytth2/frame14.png	mytth2
+./mytth2/frame210.png	mytth2
+./mytth2/frame133.png	mytth2
+./mytth2/frame147.png	mytth2
+./mytth2/frame98.png	mytth2
+./mytth2/frame77.png	mytth2
+./mytth2/frame21.png	mytth2
+./mytth2/frame161.png	mytth2
+./mytth2/frame217.png	mytth2
+./mytth2/frame42.png	mytth2
+./mytth2/frame49.png	mytth2
+./Jorah Mormont/196.jpg	Jorah Mormont
+./Jorah Mormont/665.jpg	Jorah Mormont
+./Jorah Mormont/767.jpg	Jorah Mormont
+./Jorah Mormont/5.jpg	Jorah Mormont
+./Jorah Mormont/492.jpg	Jorah Mormont
+./Jorah Mormont/157.jpg	Jorah Mormont
+./Jorah Mormont/766.jpg	Jorah Mormont
+./Jorah Mormont/160.jpg	Jorah Mormont
+./Jorah Mormont/156.jpg	Jorah Mormont
+./Jorah Mormont/497.jpg	Jorah Mormont
+./Jorah Mormont/153.jpg	Jorah Mormont
+./Jorah Mormont/13.jpg	Jorah Mormont
+./Jorah Mormont/120.jpg	Jorah Mormont
+./Jorah Mormont/11.jpg	Jorah Mormont
+./Jorah Mormont/154.jpg	Jorah Mormont
+./Jorah Mormont/969.jpg	Jorah Mormont
+./Jorah Mormont/736.jpg	Jorah Mormont
+./Jorah Mormont/152.jpg	Jorah Mormont
+./Jorah Mormont/151.jpg	Jorah Mormont
+./Jorah Mormont/165.jpg	Jorah Mormont
+./Jorah Mormont/486.jpg	Jorah Mormont
+./Jorah Mormont/760.jpg	Jorah Mormont
+./Jorah Mormont/147.jpg	Jorah Mormont
+./Jorah Mormont/780.jpg	Jorah Mormont
+./Jorah Mormont/14.jpg	Jorah Mormont
+./Jorah Mormont/22.jpg	Jorah Mormont
+./Jorah Mormont/226.jpg	Jorah Mormont
+./Jorah Mormont/155.jpg	Jorah Mormont
+./Jorah Mormont/664.jpg	Jorah Mormont
+./Jorah Mormont/482.jpg	Jorah Mormont
+./Jorah Mormont/666.jpg	Jorah Mormont
+./Jorah Mormont/148.jpg	Jorah Mormont
+./Jorah Mormont/741.jpg	Jorah Mormont
+./Jorah Mormont/164.jpg	Jorah Mormont
+./Jorah Mormont/159.jpg	Jorah Mormont
+./Jorah Mormont/498.jpg	Jorah Mormont
+./Jorah Mormont/150.jpg	Jorah Mormont
+./Jorah Mormont/52.jpg	Jorah Mormont
+./Jorah Mormont/163.jpg	Jorah Mormont
+./Jorah Mormont/162.jpg	Jorah Mormont
+./Jorah Mormont/782.jpg	Jorah Mormont
+./Jorah Mormont/707.jpg	Jorah Mormont
+./Jorah Mormont/691.jpg	Jorah Mormont
+./Jorah Mormont/77.jpg	Jorah Mormont
+./Jorah Mormont/225.jpg	Jorah Mormont
+./Jorah Mormont/149.jpg	Jorah Mormont
+./Jorah Mormont/10.jpg	Jorah Mormont
+./Tywin Lannister/363.jpg	Tywin Lannister
+./Tywin Lannister/314.jpg	Tywin Lannister
+./Tywin Lannister/369.jpg	Tywin Lannister
+./Tywin Lannister/364.jpg	Tywin Lannister
+./Tywin Lannister/373.jpg	Tywin Lannister
+./Tywin Lannister/368.jpg	Tywin Lannister
+./Tywin Lannister/362.jpg	Tywin Lannister
+./Tywin Lannister/315.jpg	Tywin Lannister
+./Tywin Lannister/372.jpg	Tywin Lannister
+./Tywin Lannister/358.jpg	Tywin Lannister
+./Tywin Lannister/374.jpg	Tywin Lannister
+./Tywin Lannister/316.jpg	Tywin Lannister
+./Tywin Lannister/371.jpg	Tywin Lannister
+./Tywin Lannister/365.jpg	Tywin Lannister
+./Varys/325.jpg	Varys
+./Varys/333.jpg	Varys
+./Varys/328.jpg	Varys
+./The Hound/529.jpg	The Hound
+./The Hound/29.jpg	The Hound
+./The Hound/531.jpg	The Hound
+./The Hound/259.jpg	The Hound
+./The Hound/570.jpg	The Hound
+./The Hound/327.jpg	The Hound
+./The Hound/545.jpg	The Hound
+./The Hound/326.jpg	The Hound
+./The Hound/24.jpg	The Hound
+./The Hound/299.jpg	The Hound
+./The Hound/315.jpg	The Hound
+./The Hound/568.jpg	The Hound
+./The Hound/571.jpg	The Hound
+./The Hound/25.jpg	The Hound
+./The Hound/300.jpg	The Hound
+./The Hound/321.jpg	The Hound
+./The Hound/539.jpg	The Hound
+./The Hound/569.jpg	The Hound
+./The Hound/463.jpg	The Hound
+./Grand Maester Pycelle/270.jpg	Grand Maester Pycelle
+./Grand Maester Pycelle/272.jpg	Grand Maester Pycelle
+./Grand Maester Pycelle/277.jpg	Grand Maester Pycelle
+./Grand Maester Pycelle/273.jpg	Grand Maester Pycelle
+./Grand Maester Pycelle/276.jpg	Grand Maester Pycelle
+./Grand Maester Pycelle/267.jpg	Grand Maester Pycelle
+./Grand Maester Pycelle/271.jpg	Grand Maester Pycelle
+./thuynq1/IMG_20220304_095333.png	thuynq1
+./thuynq1/frame112.png	thuynq1
+./thuynq1/frame7.png	thuynq1
+./thuynq1/frame105.png	thuynq1
+./thuynq1/frame28.png	thuynq1
+./thuynq1/frame168.png	thuynq1
+./thuynq1/frame0.png	thuynq1
+./thuynq1/frame140.png	thuynq1
+./thuynq1/frame91.png	thuynq1
+./thuynq1/frame63.png	thuynq1
+./thuynq1/frame35.png	thuynq1
+./thuynq1/frame224.png	thuynq1
+./thuynq1/frame203.png	thuynq1
+./thuynq1/frame84.png	thuynq1
+./thuynq1/frame175.png	thuynq1
+./thuynq1/frame119.png	thuynq1
+./thuynq1/frame182.png	thuynq1
+./thuynq1/frame196.png	thuynq1
+./thuynq1/IMG_20220304_095339.png	thuynq1
+./thuynq1/frame56.png	thuynq1
+./thuynq1/IMG_20220304_095352.png	thuynq1
+./thuynq1/frame189.png	thuynq1
+./thuynq1/frame126.png	thuynq1
+./thuynq1/frame154.png	thuynq1
+./thuynq1/frame70.png	thuynq1
+./thuynq1/frame14.png	thuynq1
+./thuynq1/frame210.png	thuynq1
+./thuynq1/frame133.png	thuynq1
+./thuynq1/frame147.png	thuynq1
+./thuynq1/frame98.png	thuynq1
+./thuynq1/frame77.png	thuynq1
+./thuynq1/frame21.png	thuynq1
+./thuynq1/frame161.png	thuynq1
+./thuynq1/frame217.png	thuynq1
+./thuynq1/frame42.png	thuynq1
+./thuynq1/frame49.png	thuynq1
+./nhannl/frame7.png	nhannl
+./nhannl/frame28.png	nhannl
+./nhannl/frame0.png	nhannl
+./nhannl/frame63.png	nhannl
+./nhannl/frame35.png	nhannl
+./nhannl/frame56.png	nhannl
+./nhannl/frame70.png	nhannl
+./nhannl/frame14.png	nhannl
+./nhannl/frame77.png	nhannl
+./nhannl/frame21.png	nhannl
+./nhannl/frame42.png	nhannl
+./nhannl/frame49.png	nhannl
+./tyrion lannister/245.jpg	tyrion lannister
+./tyrion lannister/280.jpg	tyrion lannister
+./tyrion lannister/243.jpg	tyrion lannister
+./tyrion lannister/48.jpg	tyrion lannister
+./tyrion lannister/46.jpg	tyrion lannister
+./tyrion lannister/236.jpg	tyrion lannister
+./tyrion lannister/157.jpg	tyrion lannister
+./tyrion lannister/42.jpg	tyrion lannister
+./tyrion lannister/26.jpg	tyrion lannister
+./tyrion lannister/170.jpg	tyrion lannister
+./tyrion lannister/53.jpg	tyrion lannister
+./tyrion lannister/50.jpg	tyrion lannister
+./tyrion lannister/977.jpg	tyrion lannister
+./tyrion lannister/975.jpg	tyrion lannister
+./tyrion lannister/165.jpg	tyrion lannister
+./tyrion lannister/227.jpg	tyrion lannister
+./tyrion lannister/212.jpg	tyrion lannister
+./tyrion lannister/239.jpg	tyrion lannister
+./tyrion lannister/242.jpg	tyrion lannister
+./tyrion lannister/24.jpg	tyrion lannister
+./tyrion lannister/49.jpg	tyrion lannister
+./tyrion lannister/244.jpg	tyrion lannister
+./tyrion lannister/131.jpg	tyrion lannister
+./tyrion lannister/235.jpg	tyrion lannister
+./tyrion lannister/25.jpg	tyrion lannister
+./tyrion lannister/234.jpg	tyrion lannister
+./tyrion lannister/246.jpg	tyrion lannister
+./tyrion lannister/51.jpg	tyrion lannister
+./tyrion lannister/976.jpg	tyrion lannister
+./tyrion lannister/68.jpg	tyrion lannister
+./tyrion lannister/226.jpg	tyrion lannister
+./tyrion lannister/155.jpg	tyrion lannister
+./tyrion lannister/223.jpg	tyrion lannister
+./tyrion lannister/69.jpg	tyrion lannister
+./tyrion lannister/64.jpg	tyrion lannister
+./tyrion lannister/237.jpg	tyrion lannister
+./tyrion lannister/233.jpg	tyrion lannister
+./tyrion lannister/241.jpg	tyrion lannister
+./tyrion lannister/230.jpg	tyrion lannister
+./tyrion lannister/159.jpg	tyrion lannister
+./tyrion lannister/224.jpg	tyrion lannister
+./tyrion lannister/168.jpg	tyrion lannister
+./tyrion lannister/66.jpg	tyrion lannister
+./tyrion lannister/52.jpg	tyrion lannister
+./tyrion lannister/228.jpg	tyrion lannister
+./tyrion lannister/225.jpg	tyrion lannister
+./Lam/8.jpg	Lam
+./Lam/21.jpg	Lam
+./Lam/15.jpg	Lam
+./Lam/16.jpg	Lam
+./Lam/17.jpg	Lam
+./Lam/5.jpg	Lam
+./Lam/4.jpg	Lam
+./Lam/9.jpg	Lam
+./Lam/20.jpg	Lam
+./Lam/13.jpg	Lam
+./Lam/6.jpg	Lam
+./Lam/11.jpg	Lam
+./Lam/2.jpg	Lam
+./Lam/18.jpg	Lam
+./Lam/14.jpg	Lam
+./Lam/19.jpg	Lam
+./Lam/1.jpg	Lam
+./Lam/7.jpg	Lam
+./Lam/3.jpg	Lam
+./Lam/12.jpg	Lam
+./Lam/10.jpg	Lam
+./nampv10/frame112.png	nampv10
+./nampv10/frame7.png	nampv10
+./nampv10/frame105.png	nampv10
+./nampv10/frame28.png	nampv10
+./nampv10/frame0.png	nampv10
+./nampv10/CNTT_nampv10_mask.png	nampv10
+./nampv10/frame91.png	nampv10
+./nampv10/frame63.png	nampv10
+./nampv10/frame35.png	nampv10
+./nampv10/frame84.png	nampv10
+./nampv10/frame119.png	nampv10
+./nampv10/frame56.png	nampv10
+./nampv10/frame70.png	nampv10
+./nampv10/frame14.png	nampv10
+./nampv10/frame98.png	nampv10
+./nampv10/frame77.png	nampv10
+./nampv10/frame21.png	nampv10
+./nampv10/frame42.png	nampv10
+./nampv10/frame49.png	nampv10
+./nampv10/CNTT_nampv10_image.png	nampv10
+./huytv19/frame336.png	huytv19
+./huytv19/frame238.png	huytv19
+./huytv19/frame112.png	huytv19
+./huytv19/frame399.png	huytv19
+./huytv19/frame7.png	huytv19
+./huytv19/frame105.png	huytv19
+./huytv19/frame28.png	huytv19
+./huytv19/frame168.png	huytv19
+./huytv19/frame371.png	huytv19
+./huytv19/frame308.png	huytv19
+./huytv19/frame259.png	huytv19
+./huytv19/frame343.png	huytv19
+./huytv19/frame329.png	huytv19
+./huytv19/frame0.png	huytv19
+./huytv19/frame413.png	huytv19
+./huytv19/frame322.png	huytv19
+./huytv19/frame350.png	huytv19
+./huytv19/frame245.png	huytv19
+./huytv19/frame434.png	huytv19
+./huytv19/frame294.png	huytv19
+./huytv19/frame140.png	huytv19
+./huytv19/frame91.png	huytv19
+./huytv19/frame231.png	huytv19
+./huytv19/frame252.png	huytv19
+./huytv19/frame266.png	huytv19
+./huytv19/frame63.png	huytv19
+./huytv19/frame35.png	huytv19
+./huytv19/frame280.png	huytv19
+./huytv19/frame224.png	huytv19
+./huytv19/frame203.png	huytv19
+./huytv19/frame84.png	huytv19
+./huytv19/frame175.png	huytv19
+./huytv19/frame119.png	huytv19
+./huytv19/frame392.png	huytv19
+./huytv19/frame385.png	huytv19
+./huytv19/frame182.png	huytv19
+./huytv19/frame196.png	huytv19
+./huytv19/frame56.png	huytv19
+./huytv19/frame364.png	huytv19
+./huytv19/frame189.png	huytv19
+./huytv19/frame126.png	huytv19
+./huytv19/frame154.png	huytv19
+./huytv19/frame70.png	huytv19
+./huytv19/frame357.png	huytv19
+./huytv19/frame14.png	huytv19
+./huytv19/frame210.png	huytv19
+./huytv19/frame133.png	huytv19
+./huytv19/frame147.png	huytv19
+./huytv19/frame98.png	huytv19
+./huytv19/z3230277610303_3444f471fe4dc0ba05215942155b71c3.png	huytv19
+./huytv19/frame406.png	huytv19
+./huytv19/frame77.png	huytv19
+./huytv19/frame315.png	huytv19
+./huytv19/frame21.png	huytv19
+./huytv19/frame301.png	huytv19
+./huytv19/frame161.png	huytv19
+./huytv19/frame273.png	huytv19
+./huytv19/z3230277613645_3b57550902506b3fd63487e32c92300b.png	huytv19
+./huytv19/frame217.png	huytv19
+./huytv19/frame42.png	huytv19
+./huytv19/frame420.png	huytv19
+./huytv19/frame49.png	huytv19
+./huytv19/frame427.png	huytv19
+./huytv19/frame287.png	huytv19
+./huytv19/frame378.png	huytv19
+./hungnv166/frame112.png	hungnv166
+./hungnv166/frame7.png	hungnv166
+./hungnv166/frame105.png	hungnv166
+./hungnv166/frame28.png	hungnv166
+./hungnv166/frame0.png	hungnv166
+./hungnv166/frame91.png	hungnv166
+./hungnv166/frame63.png	hungnv166
+./hungnv166/frame35.png	hungnv166
+./hungnv166/frame84.png	hungnv166
+./hungnv166/frame119.png	hungnv166
+./hungnv166/frame56.png	hungnv166
+./hungnv166/frame126.png	hungnv166
+./hungnv166/frame70.png	hungnv166
+./hungnv166/frame14.png	hungnv166
+./hungnv166/frame98.png	hungnv166
+./hungnv166/frame77.png	hungnv166
+./hungnv166/frame21.png	hungnv166
+./hungnv166/frame42.png	hungnv166
+./hungnv166/frame49.png	hungnv166
+./SonBeo/8.jpg	SonBeo
+./SonBeo/21.jpg	SonBeo
+./SonBeo/15.jpg	SonBeo
+./SonBeo/16.jpg	SonBeo
+./SonBeo/17.jpg	SonBeo
+./SonBeo/5.jpg	SonBeo
+./SonBeo/4.jpg	SonBeo
+./SonBeo/9.jpg	SonBeo
+./SonBeo/20.jpg	SonBeo
+./SonBeo/13.jpg	SonBeo
+./SonBeo/6.jpg	SonBeo
+./SonBeo/11.jpg	SonBeo
+./SonBeo/2.jpg	SonBeo
+./SonBeo/18.jpg	SonBeo
+./SonBeo/14.jpg	SonBeo
+./SonBeo/19.jpg	SonBeo
+./SonBeo/1.jpg	SonBeo
+./SonBeo/7.jpg	SonBeo
+./SonBeo/3.jpg	SonBeo
+./SonBeo/12.jpg	SonBeo
+./SonBeo/10.jpg	SonBeo
+./jon snow/32.jpg	jon snow
+./jon snow/363.jpg	jon snow
+./jon snow/8.jpg	jon snow
+./jon snow/243.jpg	jon snow
+./jon snow/21.jpg	jon snow
+./jon snow/99.jpg	jon snow
+./jon snow/399.jpg	jon snow
+./jon snow/107.jpg	jon snow
+./jon snow/29.jpg	jon snow
+./jon snow/15.jpg	jon snow
+./jon snow/355.jpg	jon snow
+./jon snow/496.jpg	jon snow
+./jon snow/16.jpg	jon snow
+./jon snow/634.jpg	jon snow
+./jon snow/17.jpg	jon snow
+./jon snow/91.jpg	jon snow
+./jon snow/93.jpg	jon snow
+./jon snow/5.jpg	jon snow
+./jon snow/95.jpg	jon snow
+./jon snow/618.jpg	jon snow
+./jon snow/176.jpg	jon snow
+./jon snow/278.jpg	jon snow
+./jon snow/9.jpg	jon snow
+./jon snow/20.jpg	jon snow
+./jon snow/105.jpg	jon snow
+./jon snow/104x.jpg	jon snow
+./jon snow/89.jpg	jon snow
+./jon snow/616.jpg	jon snow
+./jon snow/34.jpg	jon snow
+./jon snow/88.jpg	jon snow
+./jon snow/13.jpg	jon snow
+./jon snow/6.jpg	jon snow
+./jon snow/26.jpg	jon snow
+./jon snow/221.jpg	jon snow
+./jon snow/218.jpg	jon snow
+./jon snow/62.jpg	jon snow
+./jon snow/247.jpg	jon snow
+./jon snow/11.jpg	jon snow
+./jon snow/177.jpg	jon snow
+./jon snow/92.jpg	jon snow
+./jon snow/380.jpg	jon snow
+./jon snow/28.jpg	jon snow
+./jon snow/248.jpg	jon snow
+./jon snow/98.jpg	jon snow
+./jon snow/250.jpg	jon snow
+./jon snow/657.jpg	jon snow
+./jon snow/102.jpg	jon snow
+./jon snow/65.jpg	jon snow
+./jon snow/30.jpg	jon snow
+./jon snow/222.jpg	jon snow
+./jon snow/101.jpg	jon snow
+./jon snow/440.jpg	jon snow
+./jon snow/35.jpg	jon snow
+./jon snow/87.jpg	jon snow
+./jon snow/175.jpg	jon snow
+./jon snow/106.jpg	jon snow
+./jon snow/97.jpg	jon snow
+./jon snow/219.jpg	jon snow
+./jon snow/536.jpg	jon snow
+./jon snow/442.jpg	jon snow
+./jon snow/400.jpg	jon snow
+./jon snow/358.jpg	jon snow
+./jon snow/18.jpg	jon snow
+./jon snow/14.jpg	jon snow
+./jon snow/27.jpg	jon snow
+./jon snow/90.jpg	jon snow
+./jon snow/19.jpg	jon snow
+./jon snow/246.jpg	jon snow
+./jon snow/604.jpg	jon snow
+./jon snow/352.jpg	jon snow
+./jon snow/266.jpg	jon snow
+./jon snow/22.jpg	jon snow
+./jon snow/178.jpg	jon snow
+./jon snow/223.jpg	jon snow
+./jon snow/477.jpg	jon snow
+./jon snow/100.jpg	jon snow
+./jon snow/450.jpg	jon snow
+./jon snow/31.jpg	jon snow
+./jon snow/353.jpg	jon snow
+./jon snow/64.jpg	jon snow
+./jon snow/632.jpg	jon snow
+./jon snow/237.jpg	jon snow
+./jon snow/59.jpg	jon snow
+./jon snow/382.jpg	jon snow
+./jon snow/108.jpg	jon snow
+./jon snow/7.jpg	jon snow
+./jon snow/104.jpg	jon snow
+./jon snow/220.jpg	jon snow
+./jon snow/511.jpg	jon snow
+./jon snow/66.jpg	jon snow
+./jon snow/109.jpg	jon snow
+./jon snow/479.jpg	jon snow
+./jon snow/635.jpg	jon snow
+./jon snow/12.jpg	jon snow
+./jon snow/284.jpg	jon snow
+./jon snow/60.jpg	jon snow
+./jon snow/606.jpg	jon snow
+./jon snow/406.jpg	jon snow
+./jon snow/63.jpg	jon snow
+./jon snow/443.jpg	jon snow
+./jon snow/10.jpg	jon snow
+./jon snow/96.jpg	jon snow
+./Brienne of Tarth/377.jpg	Brienne of Tarth
+./Brienne of Tarth/393.jpg	Brienne of Tarth
+./Brienne of Tarth/390.jpg	Brienne of Tarth
+./Brienne of Tarth/470.jpg	Brienne of Tarth
+./Brienne of Tarth/464.jpg	Brienne of Tarth
+./Brienne of Tarth/517.jpg	Brienne of Tarth
+./Brienne of Tarth/381.jpg	Brienne of Tarth
+./Brienne of Tarth/396.jpg	Brienne of Tarth
+./Brienne of Tarth/465.jpg	Brienne of Tarth
+./Brienne of Tarth/389.jpg	Brienne of Tarth
+./Brienne of Tarth/469.jpg	Brienne of Tarth
+./Brienne of Tarth/391.jpg	Brienne of Tarth
+./Brienne of Tarth/515.jpg	Brienne of Tarth
+./Brienne of Tarth/386.jpg	Brienne of Tarth
+./Brienne of Tarth/387.jpg	Brienne of Tarth
+./Brienne of Tarth/468.jpg	Brienne of Tarth
+./Brienne of Tarth/385.jpg	Brienne of Tarth
+./Brienne of Tarth/382.jpg	Brienne of Tarth
+./Brienne of Tarth/395.jpg	Brienne of Tarth
+./Brienne of Tarth/392.jpg	Brienne of Tarth
+./Brienne of Tarth/460.jpg	Brienne of Tarth
+./Brienne of Tarth/397.jpg	Brienne of Tarth
+./Brienne of Tarth/461.jpg	Brienne of Tarth
+./Brienne of Tarth/378.jpg	Brienne of Tarth
+./Brienne of Tarth/462.jpg	Brienne of Tarth
+./quangnm9/frame238.png	quangnm9
+./quangnm9/frame112.png	quangnm9
+./quangnm9/frame7.png	quangnm9
+./quangnm9/frame105.png	quangnm9
+./quangnm9/frame28.png	quangnm9
+./quangnm9/frame168.png	quangnm9
+./quangnm9/frame308.png	quangnm9
+./quangnm9/frame259.png	quangnm9
+./quangnm9/frame329.png	quangnm9
+./quangnm9/frame0.png	quangnm9
+./quangnm9/frame322.png	quangnm9
+./quangnm9/frame245.png	quangnm9
+./quangnm9/frame294.png	quangnm9
+./quangnm9/frame140.png	quangnm9
+./quangnm9/frame91.png	quangnm9
+./quangnm9/frame231.png	quangnm9
+./quangnm9/frame252.png	quangnm9
+./quangnm9/frame266.png	quangnm9
+./quangnm9/frame63.png	quangnm9
+./quangnm9/frame35.png	quangnm9
+./quangnm9/frame280.png	quangnm9
+./quangnm9/frame224.png	quangnm9
+./quangnm9/frame203.png	quangnm9
+./quangnm9/frame84.png	quangnm9
+./quangnm9/frame175.png	quangnm9
+./quangnm9/frame119.png	quangnm9
+./quangnm9/frame182.png	quangnm9
+./quangnm9/frame196.png	quangnm9
+./quangnm9/frame56.png	quangnm9
+./quangnm9/frame189.png	quangnm9
+./quangnm9/frame126.png	quangnm9
+./quangnm9/frame154.png	quangnm9
+./quangnm9/frame70.png	quangnm9
+./quangnm9/frame14.png	quangnm9
+./quangnm9/frame210.png	quangnm9
+./quangnm9/frame133.png	quangnm9
+./quangnm9/frame147.png	quangnm9
+./quangnm9/frame98.png	quangnm9
+./quangnm9/frame77.png	quangnm9
+./quangnm9/frame315.png	quangnm9
+./quangnm9/frame21.png	quangnm9
+./quangnm9/frame301.png	quangnm9
+./quangnm9/frame161.png	quangnm9
+./quangnm9/frame273.png	quangnm9
+./quangnm9/frame217.png	quangnm9
+./quangnm9/frame42.png	quangnm9
+./quangnm9/frame49.png	quangnm9
+./quangnm9/frame287.png	quangnm9
+./yenhh10/frame112.png	yenhh10
+./yenhh10/frame7.png	yenhh10
+./yenhh10/frame105.png	yenhh10
+./yenhh10/frame28.png	yenhh10
+./yenhh10/frame168.png	yenhh10
+./yenhh10/frame0.png	yenhh10
+./yenhh10/frame140.png	yenhh10
+./yenhh10/frame91.png	yenhh10
+./yenhh10/frame231.png	yenhh10
+./yenhh10/frame63.png	yenhh10
+./yenhh10/frame35.png	yenhh10
+./yenhh10/frame224.png	yenhh10
+./yenhh10/frame203.png	yenhh10
+./yenhh10/frame84.png	yenhh10
+./yenhh10/frame175.png	yenhh10
+./yenhh10/frame119.png	yenhh10
+./yenhh10/frame182.png	yenhh10
+./yenhh10/frame196.png	yenhh10
+./yenhh10/frame56.png	yenhh10
+./yenhh10/frame189.png	yenhh10
+./yenhh10/frame126.png	yenhh10
+./yenhh10/frame154.png	yenhh10
+./yenhh10/frame70.png	yenhh10
+./yenhh10/frame14.png	yenhh10
+./yenhh10/frame210.png	yenhh10
+./yenhh10/frame133.png	yenhh10
+./yenhh10/frame147.png	yenhh10
+./yenhh10/frame98.png	yenhh10
+./yenhh10/frame77.png	yenhh10
+./yenhh10/frame21.png	yenhh10
+./yenhh10/frame161.png	yenhh10
+./yenhh10/frame217.png	yenhh10
+./yenhh10/frame42.png	yenhh10
+./yenhh10/frame49.png	yenhh10
+./Tuanba15/frame238.png	Tuanba15
+./Tuanba15/frame112.png	Tuanba15
+./Tuanba15/frame7.png	Tuanba15
+./Tuanba15/frame105.png	Tuanba15
+./Tuanba15/frame28.png	Tuanba15
+./Tuanba15/frame168.png	Tuanba15
+./Tuanba15/frame259.png	Tuanba15
+./Tuanba15/frame0.png	Tuanba15
+./Tuanba15/frame245.png	Tuanba15
+./Tuanba15/frame294.png	Tuanba15
+./Tuanba15/frame140.png	Tuanba15
+./Tuanba15/frame91.png	Tuanba15
+./Tuanba15/frame231.png	Tuanba15
+./Tuanba15/frame252.png	Tuanba15
+./Tuanba15/frame266.png	Tuanba15
+./Tuanba15/frame63.png	Tuanba15
+./Tuanba15/frame35.png	Tuanba15
+./Tuanba15/frame280.png	Tuanba15
+./Tuanba15/frame224.png	Tuanba15
+./Tuanba15/frame203.png	Tuanba15
+./Tuanba15/frame84.png	Tuanba15
+./Tuanba15/frame175.png	Tuanba15
+./Tuanba15/frame119.png	Tuanba15
+./Tuanba15/frame56.png	Tuanba15
+./Tuanba15/CNTT_tuanba15_glass.png	Tuanba15
+./Tuanba15/frame126.png	Tuanba15
+./Tuanba15/CNTT_tuanba15_mask.png	Tuanba15
+./Tuanba15/frame154.png	Tuanba15
+./Tuanba15/frame70.png	Tuanba15
+./Tuanba15/frame14.png	Tuanba15
+./Tuanba15/frame210.png	Tuanba15
+./Tuanba15/frame133.png	Tuanba15
+./Tuanba15/frame147.png	Tuanba15
+./Tuanba15/CNTT_tuanba15_image.png	Tuanba15
+./Tuanba15/frame98.png	Tuanba15
+./Tuanba15/frame77.png	Tuanba15
+./Tuanba15/frame21.png	Tuanba15
+./Tuanba15/frame161.png	Tuanba15
+./Tuanba15/frame273.png	Tuanba15
+./Tuanba15/frame217.png	Tuanba15
+./Tuanba15/frame42.png	Tuanba15
+./Tuanba15/frame49.png	Tuanba15
+./Tuanba15/frame287.png	Tuanba15
+./HoDor/79.jpg	HoDor
+./HoDor/105.jpg	HoDor
+./HoDor/86.jpg	HoDor
+./HoDor/96.jpg	HoDor
+./bacnd4/frame112.png	bacnd4
+./bacnd4/frame7.png	bacnd4
+./bacnd4/frame105.png	bacnd4
+./bacnd4/frame28.png	bacnd4
+./bacnd4/frame0.png	bacnd4
+./bacnd4/frame91.png	bacnd4
+./bacnd4/frame63.png	bacnd4
+./bacnd4/frame35.png	bacnd4
+./bacnd4/frame84.png	bacnd4
+./bacnd4/frame119.png	bacnd4
+./bacnd4/frame56.png	bacnd4
+./bacnd4/frame70.png	bacnd4
+./bacnd4/frame14.png	bacnd4
+./bacnd4/frame98.png	bacnd4
+./bacnd4/frame77.png	bacnd4
+./bacnd4/frame21.png	bacnd4
+./bacnd4/frame42.png	bacnd4
+./bacnd4/CNTT_bacnd4_mask.png	bacnd4
+./bacnd4/CNTT_bacnd4_image.png	bacnd4
+./bacnd4/frame49.png	bacnd4
+./Missandei/196.jpg	Missandei
+./Missandei/199.jpg	Missandei
+./Missandei/187.jpg	Missandei
+./Missandei/190.jpg	Missandei
+./Missandei/188.jpg	Missandei
+./Missandei/192.jpg	Missandei
+./Missandei/198.jpg	Missandei
+./Missandei/203.jpg	Missandei
+./Missandei/182.jpg	Missandei
+./Missandei/191.jpg	Missandei
+./Missandei/183.jpg	Missandei
+./Missandei/674.jpg	Missandei
+./Missandei/186.jpg	Missandei
+./Missandei/184.jpg	Missandei
+./Missandei/201.jpg	Missandei
+./Missandei/512.jpg	Missandei
+./Missandei/195.jpg	Missandei
+./Missandei/194.jpg	Missandei
+./Missandei/185.jpg	Missandei
+./Missandei/189.jpg	Missandei
+./tuoittt/frame238.png	tuoittt
+./tuoittt/frame112.png	tuoittt
+./tuoittt/frame7.png	tuoittt
+./tuoittt/frame105.png	tuoittt
+./tuoittt/frame28.png	tuoittt
+./tuoittt/frame168.png	tuoittt
+./tuoittt/IMG_E1111.png	tuoittt
+./tuoittt/frame259.png	tuoittt
+./tuoittt/frame0.png	tuoittt
+./tuoittt/frame245.png	tuoittt
+./tuoittt/frame140.png	tuoittt
+./tuoittt/frame91.png	tuoittt
+./tuoittt/frame231.png	tuoittt
+./tuoittt/frame252.png	tuoittt
+./tuoittt/frame266.png	tuoittt
+./tuoittt/frame63.png	tuoittt
+./tuoittt/frame35.png	tuoittt
+./tuoittt/frame280.png	tuoittt
+./tuoittt/frame224.png	tuoittt
+./tuoittt/frame203.png	tuoittt
+./tuoittt/frame84.png	tuoittt
+./tuoittt/frame175.png	tuoittt
+./tuoittt/frame119.png	tuoittt
+./tuoittt/IMG_E1109.png	tuoittt
+./tuoittt/frame182.png	tuoittt
+./tuoittt/frame196.png	tuoittt
+./tuoittt/frame56.png	tuoittt
+./tuoittt/frame189.png	tuoittt
+./tuoittt/frame126.png	tuoittt
+./tuoittt/frame154.png	tuoittt
+./tuoittt/frame70.png	tuoittt
+./tuoittt/frame14.png	tuoittt
+./tuoittt/frame210.png	tuoittt
+./tuoittt/frame133.png	tuoittt
+./tuoittt/frame147.png	tuoittt
+./tuoittt/frame98.png	tuoittt
+./tuoittt/frame77.png	tuoittt
+./tuoittt/frame21.png	tuoittt
+./tuoittt/frame161.png	tuoittt
+./tuoittt/frame273.png	tuoittt
+./tuoittt/frame217.png	tuoittt
+./tuoittt/frame42.png	tuoittt
+./tuoittt/frame49.png	tuoittt
+./thanhdt39/frame238.png	thanhdt39
+./thanhdt39/frame112.png	thanhdt39
+./thanhdt39/frame7.png	thanhdt39
+./thanhdt39/CNTT_thanhdt39_mask.png	thanhdt39
+./thanhdt39/frame105.png	thanhdt39
+./thanhdt39/frame28.png	thanhdt39
+./thanhdt39/frame168.png	thanhdt39
+./thanhdt39/frame259.png	thanhdt39
+./thanhdt39/frame0.png	thanhdt39
+./thanhdt39/frame245.png	thanhdt39
+./thanhdt39/frame140.png	thanhdt39
+./thanhdt39/frame91.png	thanhdt39
+./thanhdt39/frame231.png	thanhdt39
+./thanhdt39/frame252.png	thanhdt39
+./thanhdt39/frame63.png	thanhdt39
+./thanhdt39/frame35.png	thanhdt39
+./thanhdt39/frame224.png	thanhdt39
+./thanhdt39/frame203.png	thanhdt39
+./thanhdt39/frame84.png	thanhdt39
+./thanhdt39/frame175.png	thanhdt39
+./thanhdt39/frame119.png	thanhdt39
+./thanhdt39/CNTT_thanhdt39_image.png	thanhdt39
+./thanhdt39/frame182.png	thanhdt39
+./thanhdt39/frame196.png	thanhdt39
+./thanhdt39/frame56.png	thanhdt39
+./thanhdt39/frame189.png	thanhdt39
+./thanhdt39/frame126.png	thanhdt39
+./thanhdt39/frame154.png	thanhdt39
+./thanhdt39/frame70.png	thanhdt39
+./thanhdt39/frame14.png	thanhdt39
+./thanhdt39/frame210.png	thanhdt39
+./thanhdt39/frame133.png	thanhdt39
+./thanhdt39/frame147.png	thanhdt39
+./thanhdt39/frame98.png	thanhdt39
+./thanhdt39/frame77.png	thanhdt39
+./thanhdt39/frame21.png	thanhdt39
+./thanhdt39/frame161.png	thanhdt39
+./thanhdt39/frame217.png	thanhdt39
+./thanhdt39/frame42.png	thanhdt39
+./thanhdt39/frame49.png	thanhdt39
+./Bran Stark/32.jpg	Bran Stark
+./Bran Stark/8.jpg	Bran Stark
+./Bran Stark/325.jpg	Bran Stark
+./Bran Stark/435.jpg	Bran Stark
+./Bran Stark/434.jpg	Bran Stark
+./Bran Stark/40.jpg	Bran Stark
+./Bran Stark/425.jpg	Bran Stark
+./Bran Stark/432.jpg	Bran Stark
+./Bran Stark/423.jpg	Bran Stark
+./Bran Stark/429.jpg	Bran Stark
+./Bran Stark/419.jpg	Bran Stark
+./Bran Stark/427.jpg	Bran Stark
+./Bran Stark/426.jpg	Bran Stark
+./Bran Stark/431.jpg	Bran Stark
+./Bran Stark/444.jpg	Bran Stark
+./Bran Stark/424.jpg	Bran Stark
+./Bran Stark/901.jpg	Bran Stark
+./Bran Stark/436.jpg	Bran Stark
+./Bran Stark/422.jpg	Bran Stark
+./Bran Stark/428.jpg	Bran Stark
+./Bran Stark/430.jpg	Bran Stark
+./Bran Stark/579.jpg	Bran Stark
+./Bran Stark/903.jpg	Bran Stark
+./Bran Stark/326.jpg	Bran Stark
+./Bran Stark/41.jpg	Bran Stark
+./Bran Stark/421.jpg	Bran Stark
+./Bran Stark/304.jpg	Bran Stark
+./Bran Stark/459.jpg	Bran Stark
+./Bran Stark/253.jpg	Bran Stark
+./Bran Stark/310.jpg	Bran Stark
+./Bran Stark/909.jpg	Bran Stark
+./Bran Stark/418.jpg	Bran Stark
+./Bran Stark/437.jpg	Bran Stark
+./Bran Stark/347.jpg	Bran Stark
+./Bran Stark/420.jpg	Bran Stark
+./Arya Stark/8.jpg	Arya Stark
+./Arya Stark/29.jpg	Arya Stark
+./Arya Stark/325.jpg	Arya Stark
+./Arya Stark/93.jpg	Arya Stark
+./Arya Stark/95.jpg	Arya Stark
+./Arya Stark/425.jpg	Arya Stark
+./Arya Stark/71.jpg	Arya Stark
+./Arya Stark/9.jpg	Arya Stark
+./Arya Stark/42.jpg	Arya Stark
+./Arya Stark/56.jpg	Arya Stark
+./Arya Stark/256.jpg	Arya Stark
+./Arya Stark/34.jpg	Arya Stark
+./Arya Stark/330.jpg	Arya Stark
+./Arya Stark/684.jpg	Arya Stark
+./Arya Stark/45.jpg	Arya Stark
+./Arya Stark/422.jpg	Arya Stark
+./Arya Stark/294.jpg	Arya Stark
+./Arya Stark/30.jpg	Arya Stark
+./Arya Stark/324.jpg	Arya Stark
+./Arya Stark/24.jpg	Arya Stark
+./Arya Stark/459.jpg	Arya Stark
+./Arya Stark/38.jpg	Arya Stark
+./Arya Stark/331.jpg	Arya Stark
+./Arya Stark/474.jpg	Arya Stark
+./Arya Stark/620.jpg	Arya Stark
+./Arya Stark/235.jpg	Arya Stark
+./Arya Stark/25.jpg	Arya Stark
+./Arya Stark/18.jpg	Arya Stark
+./Arya Stark/27.jpg	Arya Stark
+./Arya Stark/295.jpg	Arya Stark
+./Arya Stark/68.jpg	Arya Stark
+./Arya Stark/328.jpg	Arya Stark
+./Arya Stark/57.jpg	Arya Stark
+./Arya Stark/58.jpg	Arya Stark
+./Arya Stark/237.jpg	Arya Stark
+./Arya Stark/59.jpg	Arya Stark
+./Arya Stark/44.jpg	Arya Stark
+./Arya Stark/7.jpg	Arya Stark
+./Arya Stark/835.jpg	Arya Stark
+./Arya Stark/316.jpg	Arya Stark
+./Arya Stark/66.jpg	Arya Stark
+./Arya Stark/94.jpg	Arya Stark
+./Arya Stark/320.jpg	Arya Stark
+./Arya Stark/67.jpg	Arya Stark
+./Arya Stark/12.jpg	Arya Stark
+./Arya Stark/417.jpg	Arya Stark
+./Arya Stark/329.jpg	Arya Stark
+./Arya Stark/55.jpg	Arya Stark
+./Arya Stark/10.jpg	Arya Stark
+./Grey Worm/180.jpg	Grey Worm
+./Grey Worm/176.jpg	Grey Worm
+./Grey Worm/172.jpg	Grey Worm
+./Grey Worm/177.jpg	Grey Worm
+./Grey Worm/170.jpg	Grey Worm
+./Grey Worm/171.jpg	Grey Worm
+./Grey Worm/167.jpg	Grey Worm
+./Grey Worm/174.jpg	Grey Worm
+./Grey Worm/175.jpg	Grey Worm
+./Grey Worm/178.jpg	Grey Worm
+./Grey Worm/166.jpg	Grey Worm
+./Grey Worm/179.jpg	Grey Worm
+./Grey Worm/173.jpg	Grey Worm
+./Grey Worm/181.jpg	Grey Worm
+./Grey Worm/168.jpg	Grey Worm
+./Grey Worm/169.jpg	Grey Worm
+./anhth57/4.jpg	anhth57
+./anhth57/2.jpg	anhth57
+./anhth57/1.jpg	anhth57
+./anhth57/3.jpg	anhth57
+./phucpv10/frame112.png	phucpv10
+./phucpv10/frame7.png	phucpv10
+./phucpv10/frame105.png	phucpv10
+./phucpv10/frame28.png	phucpv10
+./phucpv10/frame168.png	phucpv10
+./phucpv10/image0.png	phucpv10
+./phucpv10/image1.png	phucpv10
+./phucpv10/frame0.png	phucpv10
+./phucpv10/frame140.png	phucpv10
+./phucpv10/frame91.png	phucpv10
+./phucpv10/frame63.png	phucpv10
+./phucpv10/frame35.png	phucpv10
+./phucpv10/frame203.png	phucpv10
+./phucpv10/frame84.png	phucpv10
+./phucpv10/frame175.png	phucpv10
+./phucpv10/frame119.png	phucpv10
+./phucpv10/frame182.png	phucpv10
+./phucpv10/frame196.png	phucpv10
+./phucpv10/frame56.png	phucpv10
+./phucpv10/frame189.png	phucpv10
+./phucpv10/frame126.png	phucpv10
+./phucpv10/frame154.png	phucpv10
+./phucpv10/frame70.png	phucpv10
+./phucpv10/frame14.png	phucpv10
+./phucpv10/frame210.png	phucpv10
+./phucpv10/frame133.png	phucpv10
+./phucpv10/frame147.png	phucpv10
+./phucpv10/frame98.png	phucpv10
+./phucpv10/frame77.png	phucpv10
+./phucpv10/frame21.png	phucpv10
+./phucpv10/frame161.png	phucpv10
+./phucpv10/frame217.png	phucpv10
+./phucpv10/frame42.png	phucpv10
+./phucpv10/frame49.png	phucpv10
+./Thaonp27/frame238.png	Thaonp27
+./Thaonp27/frame112.png	Thaonp27
+./Thaonp27/frame7.png	Thaonp27
+./Thaonp27/frame105.png	Thaonp27
+./Thaonp27/frame28.png	Thaonp27
+./Thaonp27/frame168.png	Thaonp27
+./Thaonp27/frame308.png	Thaonp27
+./Thaonp27/frame259.png	Thaonp27
+./Thaonp27/frame0.png	Thaonp27
+./Thaonp27/frame245.png	Thaonp27
+./Thaonp27/frame294.png	Thaonp27
+./Thaonp27/frame140.png	Thaonp27
+./Thaonp27/frame91.png	Thaonp27
+./Thaonp27/frame231.png	Thaonp27
+./Thaonp27/frame252.png	Thaonp27
+./Thaonp27/frame266.png	Thaonp27
+./Thaonp27/frame63.png	Thaonp27
+./Thaonp27/frame35.png	Thaonp27
+./Thaonp27/frame280.png	Thaonp27
+./Thaonp27/frame224.png	Thaonp27
+./Thaonp27/frame203.png	Thaonp27
+./Thaonp27/frame84.png	Thaonp27
+./Thaonp27/frame175.png	Thaonp27
+./Thaonp27/frame119.png	Thaonp27
+./Thaonp27/CNTT_Thaonp27_image.png	Thaonp27
+./Thaonp27/frame182.png	Thaonp27
+./Thaonp27/CNTT_Thaonp27_mask.png	Thaonp27
+./Thaonp27/frame196.png	Thaonp27
+./Thaonp27/frame56.png	Thaonp27
+./Thaonp27/frame189.png	Thaonp27
+./Thaonp27/frame126.png	Thaonp27
+./Thaonp27/frame154.png	Thaonp27
+./Thaonp27/frame70.png	Thaonp27
+./Thaonp27/frame14.png	Thaonp27
+./Thaonp27/frame210.png	Thaonp27
+./Thaonp27/frame133.png	Thaonp27
+./Thaonp27/frame147.png	Thaonp27
+./Thaonp27/frame98.png	Thaonp27
+./Thaonp27/frame77.png	Thaonp27
+./Thaonp27/frame21.png	Thaonp27
+./Thaonp27/frame301.png	Thaonp27
+./Thaonp27/CNTT_Thaonp27_glass.png	Thaonp27
+./Thaonp27/frame161.png	Thaonp27
+./Thaonp27/frame273.png	Thaonp27
+./Thaonp27/frame217.png	Thaonp27
+./Thaonp27/frame42.png	Thaonp27
+./Thaonp27/frame49.png	Thaonp27
+./Thaonp27/frame287.png	Thaonp27
+./tuongld2/frame112.png	tuongld2
+./tuongld2/frame7.png	tuongld2
+./tuongld2/frame105.png	tuongld2
+./tuongld2/frame28.png	tuongld2
+./tuongld2/frame168.png	tuongld2
+./tuongld2/frame0.png	tuongld2
+./tuongld2/frame140.png	tuongld2
+./tuongld2/frame91.png	tuongld2
+./tuongld2/frame63.png	tuongld2
+./tuongld2/frame35.png	tuongld2
+./tuongld2/frame84.png	tuongld2
+./tuongld2/frame175.png	tuongld2
+./tuongld2/frame119.png	tuongld2
+./tuongld2/frame56.png	tuongld2
+./tuongld2/frame126.png	tuongld2
+./tuongld2/frame154.png	tuongld2
+./tuongld2/frame70.png	tuongld2
+./tuongld2/frame14.png	tuongld2
+./tuongld2/frame133.png	tuongld2
+./tuongld2/frame147.png	tuongld2
+./tuongld2/frame98.png	tuongld2
+./tuongld2/frame77.png	tuongld2
+./tuongld2/frame21.png	tuongld2
+./tuongld2/frame161.png	tuongld2
+./tuongld2/frame42.png	tuongld2
+./tuongld2/frame49.png	tuongld2
+./quocht5/frame112.png	quocht5
+./quocht5/frame7.png	quocht5
+./quocht5/frame105.png	quocht5
+./quocht5/frame28.png	quocht5
+./quocht5/frame168.png	quocht5
+./quocht5/frame0.png	quocht5
+./quocht5/frame140.png	quocht5
+./quocht5/frame91.png	quocht5
+./quocht5/frame63.png	quocht5
+./quocht5/frame35.png	quocht5
+./quocht5/frame84.png	quocht5
+./quocht5/CNTT_quocht5_mask.png	quocht5
+./quocht5/frame119.png	quocht5
+./quocht5/frame56.png	quocht5
+./quocht5/frame126.png	quocht5
+./quocht5/frame154.png	quocht5
+./quocht5/frame70.png	quocht5
+./quocht5/frame14.png	quocht5
+./quocht5/frame133.png	quocht5
+./quocht5/frame147.png	quocht5
+./quocht5/frame98.png	quocht5
+./quocht5/frame77.png	quocht5
+./quocht5/frame21.png	quocht5
+./quocht5/frame161.png	quocht5
+./quocht5/CNTT_quocht5_image.png	quocht5
+./quocht5/frame42.png	quocht5
+./quocht5/frame49.png	quocht5
+./Davos Seaworth/126.jpg	Davos Seaworth
+./Davos Seaworth/119.jpg	Davos Seaworth
+./Davos Seaworth/156.jpg	Davos Seaworth
+./Davos Seaworth/115.jpg	Davos Seaworth
+./Davos Seaworth/158.jpg	Davos Seaworth
+./Davos Seaworth/120.jpg	Davos Seaworth
+./Davos Seaworth/62.jpg	Davos Seaworth
+./Davos Seaworth/110.jpg	Davos Seaworth
+./Davos Seaworth/154.jpg	Davos Seaworth
+./Davos Seaworth/53.jpg	Davos Seaworth
+./Davos Seaworth/152.jpg	Davos Seaworth
+./Davos Seaworth/116.jpg	Davos Seaworth
+./Davos Seaworth/111.jpg	Davos Seaworth
+./Davos Seaworth/151.jpg	Davos Seaworth
+./Davos Seaworth/121.jpg	Davos Seaworth
+./Davos Seaworth/127.jpg	Davos Seaworth
+./Davos Seaworth/183.jpg	Davos Seaworth
+./Davos Seaworth/54.jpg	Davos Seaworth
+./Davos Seaworth/186.jpg	Davos Seaworth
+./Davos Seaworth/113.jpg	Davos Seaworth
+./Davos Seaworth/59.jpg	Davos Seaworth
+./Davos Seaworth/112.jpg	Davos Seaworth
+./Davos Seaworth/125.jpg	Davos Seaworth
+./Davos Seaworth/181.jpg	Davos Seaworth
+./Davos Seaworth/61.jpg	Davos Seaworth
+./Davos Seaworth/159.jpg	Davos Seaworth
+./Davos Seaworth/114.jpg	Davos Seaworth
+./Davos Seaworth/117.jpg	Davos Seaworth
+./Davos Seaworth/150.jpg	Davos Seaworth
+./Davos Seaworth/124.jpg	Davos Seaworth
+./Davos Seaworth/149.jpg	Davos Seaworth
+./Davos Seaworth/60.jpg	Davos Seaworth
+./Davos Seaworth/185.jpg	Davos Seaworth
+./Davos Seaworth/96.jpg	Davos Seaworth
+./AnhTu/8.jpg	AnhTu
+./AnhTu/21.jpg	AnhTu
+./AnhTu/15.jpg	AnhTu
+./AnhTu/16.jpg	AnhTu
+./AnhTu/17.jpg	AnhTu
+./AnhTu/5.jpg	AnhTu
+./AnhTu/4.jpg	AnhTu
+./AnhTu/9.jpg	AnhTu
+./AnhTu/20.jpg	AnhTu
+./AnhTu/13.jpg	AnhTu
+./AnhTu/6.jpg	AnhTu
+./AnhTu/11.jpg	AnhTu
+./AnhTu/2.jpg	AnhTu
+./AnhTu/18.jpg	AnhTu
+./AnhTu/14.jpg	AnhTu
+./AnhTu/19.jpg	AnhTu
+./AnhTu/1.jpg	AnhTu
+./AnhTu/7.jpg	AnhTu
+./AnhTu/3.jpg	AnhTu
+./AnhTu/12.jpg	AnhTu
+./AnhTu/10.jpg	AnhTu
+./TuanAnh/8.jpg	TuanAnh
+./TuanAnh/21.jpg	TuanAnh
+./TuanAnh/15.jpg	TuanAnh
+./TuanAnh/16.jpg	TuanAnh
+./TuanAnh/17.jpg	TuanAnh
+./TuanAnh/5.jpg	TuanAnh
+./TuanAnh/4.jpg	TuanAnh
+./TuanAnh/9.jpg	TuanAnh
+./TuanAnh/20.jpg	TuanAnh
+./TuanAnh/13.jpg	TuanAnh
+./TuanAnh/6.jpg	TuanAnh
+./TuanAnh/11.jpg	TuanAnh
+./TuanAnh/2.jpg	TuanAnh
+./TuanAnh/18.jpg	TuanAnh
+./TuanAnh/14.jpg	TuanAnh
+./TuanAnh/19.jpg	TuanAnh
+./TuanAnh/1.jpg	TuanAnh
+./TuanAnh/7.jpg	TuanAnh
+./TuanAnh/3.jpg	TuanAnh
+./TuanAnh/12.jpg	TuanAnh
+./TuanAnh/10.jpg	TuanAnh
+./hieultt1/frame238.png	hieultt1
+./hieultt1/frame112.png	hieultt1
+./hieultt1/frame7.png	hieultt1
+./hieultt1/frame105.png	hieultt1
+./hieultt1/frame28.png	hieultt1
+./hieultt1/frame168.png	hieultt1
+./hieultt1/frame0.png	hieultt1
+./hieultt1/frame140.png	hieultt1
+./hieultt1/frame91.png	hieultt1
+./hieultt1/frame231.png	hieultt1
+./hieultt1/frame63.png	hieultt1
+./hieultt1/frame35.png	hieultt1
+./hieultt1/frame224.png	hieultt1
+./hieultt1/frame203.png	hieultt1
+./hieultt1/frame84.png	hieultt1
+./hieultt1/frame175.png	hieultt1
+./hieultt1/frame119.png	hieultt1
+./hieultt1/frame182.png	hieultt1
+./hieultt1/frame196.png	hieultt1
+./hieultt1/frame56.png	hieultt1
+./hieultt1/frame189.png	hieultt1
+./hieultt1/frame126.png	hieultt1
+./hieultt1/frame154.png	hieultt1
+./hieultt1/frame70.png	hieultt1
+./hieultt1/frame14.png	hieultt1
+./hieultt1/frame210.png	hieultt1
+./hieultt1/frame133.png	hieultt1
+./hieultt1/frame147.png	hieultt1
+./hieultt1/frame98.png	hieultt1
+./hieultt1/frame77.png	hieultt1
+./hieultt1/frame21.png	hieultt1
+./hieultt1/frame161.png	hieultt1
+./hieultt1/frame217.png	hieultt1
+./hieultt1/frame42.png	hieultt1
+./hieultt1/frame49.png	hieultt1
+./Jaime Lannister/871.jpg	Jaime Lannister
+./Jaime Lannister/753.jpg	Jaime Lannister
+./Jaime Lannister/314.jpg	Jaime Lannister
+./Jaime Lannister/99.jpg	Jaime Lannister
+./Jaime Lannister/865.jpg	Jaime Lannister
+./Jaime Lannister/538.jpg	Jaime Lannister
+./Jaime Lannister/531.jpg	Jaime Lannister
+./Jaime Lannister/325.jpg	Jaime Lannister
+./Jaime Lannister/435.jpg	Jaime Lannister
+./Jaime Lannister/851.jpg	Jaime Lannister
+./Jaime Lannister/492.jpg	Jaime Lannister
+./Jaime Lannister/867.jpg	Jaime Lannister
+./Jaime Lannister/566.jpg	Jaime Lannister
+./Jaime Lannister/318.jpg	Jaime Lannister
+./Jaime Lannister/79.jpg	Jaime Lannister
+./Jaime Lannister/857.jpg	Jaime Lannister
+./Jaime Lannister/749.jpg	Jaime Lannister
+./Jaime Lannister/757.jpg	Jaime Lannister
+./Jaime Lannister/863.jpg	Jaime Lannister
+./Jaime Lannister/499.jpg	Jaime Lannister
+./Jaime Lannister/330.jpg	Jaime Lannister
+./Jaime Lannister/870.jpg	Jaime Lannister
+./Jaime Lannister/312.jpg	Jaime Lannister
+./Jaime Lannister/26.jpg	Jaime Lannister
+./Jaime Lannister/861.jpg	Jaime Lannister
+./Jaime Lannister/894.jpg	Jaime Lannister
+./Jaime Lannister/869.jpg	Jaime Lannister
+./Jaime Lannister/322.jpg	Jaime Lannister
+./Jaime Lannister/327.jpg	Jaime Lannister
+./Jaime Lannister/182.jpg	Jaime Lannister
+./Jaime Lannister/323.jpg	Jaime Lannister
+./Jaime Lannister/897.jpg	Jaime Lannister
+./Jaime Lannister/583.jpg	Jaime Lannister
+./Jaime Lannister/324.jpg	Jaime Lannister
+./Jaime Lannister/521.jpg	Jaime Lannister
+./Jaime Lannister/576.jpg	Jaime Lannister
+./Jaime Lannister/773.jpg	Jaime Lannister
+./Jaime Lannister/745.jpg	Jaime Lannister
+./Jaime Lannister/326.jpg	Jaime Lannister
+./Jaime Lannister/748.jpg	Jaime Lannister
+./Jaime Lannister/319.jpg	Jaime Lannister
+./Jaime Lannister/24.jpg	Jaime Lannister
+./Jaime Lannister/315.jpg	Jaime Lannister
+./Jaime Lannister/889.jpg	Jaime Lannister
+./Jaime Lannister/562.jpg	Jaime Lannister
+./Jaime Lannister/331.jpg	Jaime Lannister
+./Jaime Lannister/183.jpg	Jaime Lannister
+./Jaime Lannister/860.jpg	Jaime Lannister
+./Jaime Lannister/591.jpg	Jaime Lannister
+./Jaime Lannister/82.jpg	Jaime Lannister
+./Jaime Lannister/19.jpg	Jaime Lannister
+./Jaime Lannister/54.jpg	Jaime Lannister
+./Jaime Lannister/752.jpg	Jaime Lannister
+./Jaime Lannister/328.jpg	Jaime Lannister
+./Jaime Lannister/311.jpg	Jaime Lannister
+./Jaime Lannister/433.jpg	Jaime Lannister
+./Jaime Lannister/100.jpg	Jaime Lannister
+./Jaime Lannister/64.jpg	Jaime Lannister
+./Jaime Lannister/890.jpg	Jaime Lannister
+./Jaime Lannister/310.jpg	Jaime Lannister
+./Jaime Lannister/179.jpg	Jaime Lannister
+./Jaime Lannister/59.jpg	Jaime Lannister
+./Jaime Lannister/866.jpg	Jaime Lannister
+./Jaime Lannister/898.jpg	Jaime Lannister
+./Jaime Lannister/476.jpg	Jaime Lannister
+./Jaime Lannister/181.jpg	Jaime Lannister
+./Jaime Lannister/316.jpg	Jaime Lannister
+./Jaime Lannister/117.jpg	Jaime Lannister
+./Jaime Lannister/453.jpg	Jaime Lannister
+./Jaime Lannister/498.jpg	Jaime Lannister
+./Jaime Lannister/80.jpg	Jaime Lannister
+./Jaime Lannister/320.jpg	Jaime Lannister
+./Jaime Lannister/533.jpg	Jaime Lannister
+./Jaime Lannister/77.jpg	Jaime Lannister
+./Jaime Lannister/317.jpg	Jaime Lannister
+./Jaime Lannister/329.jpg	Jaime Lannister
+./Jaime Lannister/574.jpg	Jaime Lannister
+./Jaime Lannister/451.jpg	Jaime Lannister
+./Jaime Lannister/452.jpg	Jaime Lannister
